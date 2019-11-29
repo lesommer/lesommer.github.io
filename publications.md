@@ -20,6 +20,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
 ## Submitted papers and papers in revision
+ 1. Bricaud C., **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithmfor passive tracer transport in NEMO ocean circulation model. Submitted to *Geophysical Model Development*.
  1. Gomez-Navarro L., E. Cosme, **J. Le Sommer**, N. Papadakis, A. Pascual. Development of an image de-noising method in preparation for the Surface Water and Ocean Topography satellite mission. Submitted to *Remote Sensing*.
  1. Ajayi A., **J. Le Sommer** et al. Diagnosing cross-scale kinetic energy exchanges from two submesoscale permitting ocean models. Submitted to the *Journal of Advances in Modeling Earth Systems*. 
  1. Colombo P., B. Barnier, T. Penduff, J. Chanut, J. Deshayes, J.M. Molines, **J. Le Sommer**, P. Verezemskaya, S. Gulev, A.M. Treguier. Representation of the Denmark Strait overflows in a z-coordinate eddying configuration set-up of the NEMO (v3.6) ocean model : resolution and parameters impacts. Submitted to *Geophysical Model Development*.
