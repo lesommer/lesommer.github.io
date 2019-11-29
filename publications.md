@@ -16,7 +16,6 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Papers in preparation
  1. Ajayi A., **J. Le Sommer** et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
  1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitation of the omega-equation in different oceanic flow regimes. In preparation for *Journal of Physical Oceanography*. 
- 1. Bricaud C., **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithmfor passive tracer transport in NEMO ocean circulation model. In preparation for *Geophysical Model Development*.
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
 ## Submitted papers and papers in revision
