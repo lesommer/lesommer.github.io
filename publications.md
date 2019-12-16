@@ -16,6 +16,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Papers in preparation
  1. Ajayi A., **J. Le Sommer** et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
  1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitation of the omega-equation in different oceanic flow regimes. In preparation for *Journal of Physical Oceanography*. 
+ 1. Zhen Y., P. Tandeo, S. Leroux, S. Metref, T. Penduff and **J. Le Sommer**. An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico. In preparation for the Journal of Atmospheric and Oceanic Technology.
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
 ## Submitted papers and papers in revision
@@ -26,9 +27,9 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Metref S., E. Cosme, F. Le Guillou, **J. Le Sommer**, J. M. Brankart and J. Verron. Wide-swath altimetric satellite data assimilation with structured-error detrending. Submitted to *Frontiers*.
  1. Jamet J., A. Ajayi, **J. Le Sommer**, T. Penduff, A. Hogg and W.K. Dewar. On Energy Cascades in General Flows. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. Ajayi A., **J. Le Sommer**, E. Chassignet, J.-M. Molines, X. Xu, A. Albert, E. Cosme. Spatial and Temporal Variability of the North Atlantic eddy field at scale <100km. Submitted to *Journal of Geophysical Research - Oceans*, preprint available on ESSOAr doi:[10.1002/essoar.10501076.1](https://www.essoar.org/doi/10.1002/essoar.10501076.1).
- 1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Submitted to *Nature Energy*, in revision.
 
 ## Peer-reviewed publications
+ 1. Barnier B., A. Domina, S. Gulev, J.-M. Molines, T. Maitre, T. Penduff, **J. Le Sommer**, P. Brasseur, L. Brodeau. Unexpected impact of flow-driven turbine power plants on great ocean currents. Accepted for publication in *Nature Energy*.
  1. Buckingham C. et al. The contributions of surface and submesoscale processes to turbulence in the open ocean surface boundary layer. *Journal of Advances in Modeling Earth Systems*, 11; doi:[10.1029/2019MS001801](https://doi.org/10.1029/2019MS001801), [[pdf]](https://doi.org/10.1029/2019MS001801) [[bib]](https://www.doi2bib.org/bib/10.1029/2019MS001801).
  1. Rivière P., J. Thomas, L. Siegelman-Charbit, P. Klein, C. Cotté, F. d’Ovidio, C. Guinet, **J. Le Sommer**, G. Dencausse. Submesoscale fronts modify Elephant Seals foraging behavior. *Limnology & Oceanography Letters* doi:[10.1002/lol2.10121](https://dx.doi.org/10.1002/lol2.10121); [[bib]](https://www.doi2bib.org/bib/10.1002/lol2.10121) [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN). 
  1. Metref, S., E. Cosme, **J. Le Sommer**, N. Poel, J.-M. Brankart, J. Verron, L. Gomez-Navarro (2019). Reduction of spatially structured errors in wide-swath altimetric satellite data using data assimilation. *Remote Sensing*, 11(11), doi:[10.3390/rs11111336](https://doi.org/10.3390/rs11111336); [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN) [[bib]](https://www.doi2bib.org/bib/10.3390/rs11111336) [[preprint]](https://eartharxiv.org/fcvb8/download) 
