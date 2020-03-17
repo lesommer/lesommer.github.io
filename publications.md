@@ -15,10 +15,10 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 
 ## Papers in preparation
  1. Ajayi A., **J. Le Sommer** et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
- 1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitation of the omega-equation in different oceanic flow regimes. In preparation for *Journal of Physical Oceanography*. 
  1. **Le Sommer** et al. NATL60 : A North Atlantic ocean circulation model dataset based on NEMO for preparing SWOT altimeter mission. In preparation for *Geophysical Model Development*.
 
 ## Submitted papers and papers in revision
+ 1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitation of the omega-equation in different oceanic flow regimes. submitted to the *Journal of Physical Oceanography*.
  1. Zhen Y., P. Tandeo, S. Leroux, S. Metref, T. Penduff and **J. Le Sommer**. An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico. Submitted to the *Journal of Atmospheric and Oceanic Technology*, preprint available on EarthArXiv [https://eartharxiv.org/jp695](https://eartharxiv.org/jp695).
  1. Bricaud C., **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithm for passive tracer transport in NEMO ocean circulation model. Submitted to *Geophysical Model Development*, discussion paper available [here](https://www.geosci-model-dev-discuss.net/gmd-2019-341/).
  1. Ajayi A., **J. Le Sommer** et al. Diagnosing cross-scale kinetic energy exchanges from two submesoscale permitting ocean models. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint available on ESSOAr doi:[10.1002/essoar.10501077.1](https://www.essoar.org/doi/abs/10.1002/essoar.10501077.1). 
