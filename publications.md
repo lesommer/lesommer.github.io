@@ -17,11 +17,11 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Ajayi A. et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
  1. Uchida T. et al. Is there a free lunch to the mesoscale eddy closure problem? The thickness-weighted average perspective. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Frezat H. et al. Physically constraining subgrid-scale scalar neural network models in filtered turbulence. In preparation for *Physics of Fluids*.
- 1. Le Guillou et al. Mapping wide-swath altimeter data with back-and-forth-nudging of quasi-geostropic dynamics. In preparation for "Remote Sensing".
  1. Lguensat et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Metref et al. Altimetric mapping with a MCMC sampler under dynamical constrain. In preparation for *Frontiers*.
 
 ## Submitted papers and papers in revision
+ 1. Le Guillou et al. Mapping wide-swath altimeter data with back-and-forth-nudging of quasi-geostropic dynamics. Submitted to the "Journal of Atmospheric and oceanic technology".
  1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitations of the omega equation: how effective is it to retrieve oceanic vertical circulation at meso and submesoscale ? Submitted to the *Journal of Physical Oceanography*.
  1. Zhen Y., P. Tandeo, S. Leroux, S. Metref, T. Penduff and **J. Le Sommer**. An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico. Submitted to the *Journal of Atmospheric and Oceanic Technology*, preprint available on EarthArXiv [https://eartharxiv.org/jp695](https://eartharxiv.org/jp695), under revision.
  1. Bricaud C., **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithm for passive tracer transport in NEMO ocean circulation model. Submitted to *Geophysical Model Development*, discussion paper available [here](https://www.geosci-model-dev-discuss.net/gmd-2019-341/).
