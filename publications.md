@@ -20,7 +20,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Metref et al. Altimetric mapping with a MCMC sampler under dynamical constrain. In preparation for *Frontiers*.
 
 ## Submitted papers and papers in revision
- 1. Uchida T. et al. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Submitted to *Journal of Advances in Modeling Earth Systems*.
+ 1. Uchida T. et al. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Submitted to *Journal of Advances in Modeling Earth Systems*, preprint available on ESSOAr [http://www.essoar.org/doi/10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1).
  1. Le Guillou et al. Mapping wide-swath altimeter data with back-and-forth-nudging of quasi-geostropic dynamics. Submitted to the "Journal of Atmospheric and oceanic technology".
  1. Pietri A., X. Capet F. d'Ovidio, M. Levy, **J. Le Sommer**, J.M. Molines and H. Giordani. Skills and limitations of the omega equation: how effective is it to retrieve oceanic vertical circulation at meso and submesoscale ? Submitted to the *Journal of Physical Oceanography*.
  1. Bricaud C., **J. Le Sommer**, G. Madec, C. Calone, C. Ethe, J. Chanut, J. Deshayes, O. Aumont, L. Bopp, M. Levy. Multigrid algorithm for passive tracer transport in NEMO ocean circulation model. Submitted to *Geophysical Model Development*, discussion paper available [here](https://www.geosci-model-dev-discuss.net/gmd-2019-341/).
