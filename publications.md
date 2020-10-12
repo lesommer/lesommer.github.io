@@ -15,11 +15,11 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 
 ## Papers in preparation
  1. Ajayi A. et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
- 1. Frezat H. et al. Physically constraining subgrid-scale scalar neural network models in filtered turbulence. In preparation for *Physics of Fluids*.
  1. Lguensat et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Metref et al. Altimetric mapping with a MCMC sampler under dynamical constrain. In preparation for *Frontiers*.
 
 ## Submitted papers and papers in revision
+ 1. Frezat H.,  G. Balarac, J. Le Sommer, R. Fablet, R. Lguensat. Physical invariance in neural networks for subgrid-scale scalar flux modeling. Submitted to *Physics of Fluids*;  arXiv:[2010.04663](https://arxiv.org/abs/2010.04663).
  1. Labreuche P, C. Staquet and **J. Le Sommer**. Resonant growth of near-inertial oscillations from lee waves in the deep ocean. Submitted to Geophysical and Astrophysical Fluid Dynamics. 
  1. Uchida T. et al. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Submitted to *Journal of Advances in Modeling Earth Systems*, preprint available on ESSOAr doi:[10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1).
  1. Le Guillou et al. Mapping wide-swath altimeter data with back-and-forth-nudging of quasi-geostropic dynamics. Submitted to the "Journal of Atmospheric and oceanic technology".
@@ -85,7 +85,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 1.  **Le Sommer J.**, S. Medvedev, R. Plougonven and V. Zeitlin (2003). Singularity formation during the relaxation of jets and fronts towards the state of geostrophic equilibrium. *Communications in Nonlinear Science and Numerical Simulation*, 8(3-4), 415-442; doi:[10.1016/S1007-5704(03)00050-9](http://dx.doi.org/10.1016/S1007-5704(03)00050-9). [[bib]](https://www.doi2bib.org/bib/10.1016/S1007-5704(03)00050-9) [[pdf]](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
 ## Book chapters and other publications
-1. Lguensat R., R.Fablet, **J. Le Sommer**, S. Metref, E. Cosme, K. Ouenniche, L. Drumetz, J. Gula (2020). Filtering Internal Tides From Wide-Swath Altimeter Data Using Convolutional Neural Networks. Accepted contribution to IEEE IGARSS 2020. arXive:[2005.01090](https://arxiv.org/abs/2005.01090), [[pdf]](https://arxiv.org/pdf/2005.01090.pdf).
+1. Lguensat R., R.Fablet, **J. Le Sommer**, S. Metref, E. Cosme, K. Ouenniche, L. Drumetz, J. Gula (2020). Filtering Internal Tides From Wide-Swath Altimeter Data Using Convolutional Neural Networks. Accepted contribution to IEEE IGARSS 2020. arXiv:[2005.01090](https://arxiv.org/abs/2005.01090), [[pdf]](https://arxiv.org/pdf/2005.01090.pdf).
 1. Lguensat R., **J. Le Sommer**, S. Metref, E. Cosme and R. Fablet (2019). Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models. Workshop on Machine Learning and the Physical Sciences (NeurIPS 2019). arXiv:[1911.08856](https://arxiv.org/abs/1911.08856), [[pdf]](https://arxiv.org/pdf/1911.08856.pdf). 
 1. Chassignet E., **J. Le Sommer** and A. Wallfart (2019). General Circulation models. Book chapter in "Encyclopedia of Oceans Sciences, 3rd Edition", Academic Press; doi:[10.1016/B978-0-12-409548-9.11410-1](https://doi.org/10.1016/B978-0-12-409548-9.11410-1)
 1. **Le Sommer J.**, E. Chassignet and A. Wallcraft (2018). Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in *New Frontiers in Operational Oceanography*; doi:[10.17125/gov2018](https://doi.org/10.17125/gov2018) [[pdf]](https://www.godae.org/~godae-data/School/Chapter12_LeSommer_et_al.pdf).
