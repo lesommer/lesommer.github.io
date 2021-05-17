@@ -18,6 +18,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
  1. Lguensat et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
+ 1. Le Guillou et al. Joint estimation of balanced motions and internal tides from future wide-swath altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*, ESSOAr preprint doi:[10.1002/essoar.10507073.1](https://www.essoar.org/doi/abs/10.1002/essoar.10507073.1)
  1. Labreuche P, C. Staquet and **J. Le Sommer**. Resonant growth of near-inertial oscillations from lee waves in the deep ocean. Submitted to Geophysical and Astrophysical Fluid Dynamics, under revision. 
  1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Submitted to *Journal of Advances in Modeling Earth Systems*, ESSOAr preprint doi:[10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1), under revision.
 
