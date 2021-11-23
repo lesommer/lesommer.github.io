@@ -16,6 +16,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Papers in preparation
  1. Ajayi A. et al. On the modulation of kinetic energy transfers by internal gravity waves. In preparation for *Geophysical Research Letters*. 
  1. Lguensat et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
+ 1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat. A posteriori learning of quasi-geostrophic turbulence parametrization. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
  1. Labreuche P, C. Staquet and **J. Le Sommer**. Resonant growth of near-inertial oscillations from lee waves in the deep ocean. Submitted to Geophysical and Astrophysical Fluid Dynamics, under revision. 
