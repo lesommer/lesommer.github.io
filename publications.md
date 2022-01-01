@@ -8,8 +8,9 @@ permalink: /publications/
 
 For publications metrics, see :
 [google scholar](http://scholar.google.com/citations?user=neHDjMwAAAAJ&hl=en),
-[researchid](http://www.researcherid.com/rid/B-9869-2013) <span id='badgeCont129717' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont129717&mashlet=badge&showTitle=false&className=a&rid=B-9869-2013&size=small'></script></span>,
+[researchid](http://www.researcherid.com/rid/ABG-8801-2021) <span id='badgeCont129717' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont129717&mashlet=badge&showTitle=false&className=a&rid=ABG-8801-2021&size=small'></script></span>,
 [scopus](http://www.scopus.com/inward/authorDetails.url?authorID=6507387108&partnerID=MN8TOARS)
+
 
 Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN).
 
