@@ -22,7 +22,7 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 
 ## Submitted papers and papers in revision
  1. Uchida T., **J. Le Sommer**, et al. Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models. Submitted to *Geophysical Model Development*. 
- 1. Ajayi A.,**J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*.
+ 1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*. Eartharxiv preprint doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Submitted to *Journal of Advances in Modeling Earth Systems*, ESSOAr preprint doi:[10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1), under revision.
 
 ## Peer-reviewed publications
