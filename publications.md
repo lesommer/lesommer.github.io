@@ -17,9 +17,9 @@ Pdf reprints of my papers are available [here](https://mycore.core-cloud.net/ind
 ## Papers in preparation
  1. Lguensat et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat. A posteriori learning of quasi-geostrophic turbulence parametrization. In preparation for the *Journal of Advances in Modeling Earth Systems*.
- 1. Jamet et al. Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. In preparation.
 
 ## Submitted papers and papers in revision
+ 1. Jamet et al. Non-local Eddy-Mean Kinetic Energy Transfers in Submesoscale-Permitting Ensemble Simulations. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. Leroux et al. Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. Submitted to *Ocean Science*, under review, doi:[10.5194/os-2022-11](https://doi.org/10.5194/os-2022-11).
  1. Uchida T., **J. Le Sommer**, et al. Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models. Submitted to *Geophysical Model Development*, under review, doi:[10.5194/gmd-2022-27](https://doi.org/10.5194/gmd-2022-27). 
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*. Eartharxiv preprint doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
