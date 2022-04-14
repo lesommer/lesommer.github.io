@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: Publications
 permalink: /publications/
@@ -26,7 +26,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Labreuche P., C. Staquet and **J. Le Sommer**. Resonant growth of inertial oscillations from lee waves in the deep ocean. Submitted to *Geophysical and Astrophysical Fluid Dynamics*, under revision. 
 
 ## Peer-reviewed publications
- 1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*, in press, preprint on ESSOAr doi:[10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1).
+ 1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff (2022). Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble, Part I: The Eliassen–Palm flux. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2021MS002866](https://doi.org/10.1029/2021MS002866).
  1. Le Guillou et al. (2021). Joint estimation of balanced motions and internal tides from future wide-swath altimetry. *Journal of Advances in Modeling Earth Systems*, 13(12), doi:[10.1029/2021MS002613](https://doi.org/10.1029/2021MS002613); preprint on ESSOAr doi:[10.1002/essoar.10507073.1](https://www.essoar.org/doi/abs/10.1002/essoar.10507073.1).
  1. Abdalla et al. (2021). Altimetry for the future: Building on 25 years of progress. *Advances in Space Research*, 68(2), 319-363, doi:[10.1016/j.asr.2021.01.022](https://doi.org/10.1016/j.asr.2021.01.022).
  1. Le Guillou et al. (2021).  Mapping wide-swath altimeter data with back-and-forth-nudging of quasi-geostropic dynamics. *Journal of Atmospheric and oceanic technology*, 38(4), 697-710, doi:[10.1175/JTECH-D-20-0104.1](https://doi.org/10.1175/JTECH-D-20-0104.1); preprint on ESSOAr doi:[10.1002/essoar.10504575.1](https://www.essoar.org/doi/abs/10.1002/essoar.10504575.1).
