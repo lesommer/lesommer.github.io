@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Publications
 permalink: /publications/
@@ -22,7 +22,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Jamet et al. Non-local Eddy-Mean Kinetic Energy Transfers in Submesoscale-Permitting Ensemble Simulations. Submitted to the *Journal of Advances in Modeling Earth Systems*, under review, preprint on ESSOAr doi:[10.1002/essoar.10510686.1](https://doi.org/10.1002/essoar.10510686.1).
  1. Leroux et al. Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. Submitted to *Ocean Science*, under review, doi:[10.5194/os-2022-11](https://doi.org/10.5194/os-2022-11).
  1. Uchida T., **J. Le Sommer**, et al. Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models. Submitted to *Geophysical Model Development*, under review, doi:[10.5194/gmd-2022-27](https://doi.org/10.5194/gmd-2022-27). 
- 1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
+ 1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
+ 1. Labreuche P., C. Staquet and **J. Le Sommer**. Resonant growth of inertial oscillations from lee waves in the deep ocean. Submitted to *Geophysical and Astrophysical Fluid Dynamics*, under revision. 
 
 ## Peer-reviewed publications
  1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff. Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*, in press, preprint on ESSOAr doi:[10.1002/essoar.10504082.1](http://www.essoar.org/doi/10.1002/essoar.10504082.1).
