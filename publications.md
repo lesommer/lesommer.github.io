@@ -20,13 +20,13 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Submitted papers and papers in revision
  1. Uchida T. et al. Cautionary tales from the mesoscale eddy diffusivity tensor. Submitted to *Ocean Modelling*. 
- 1. Jamet Q. et al. Non-local Eddy-Mean Kinetic Energy Transfers in Submesoscale-Permitting Ensemble Simulations. Submitted to the *Journal of Advances in Modeling Earth Systems*, under review, preprint on ESSOAr doi:[10.1002/essoar.10510686.1](https://doi.org/10.1002/essoar.10510686.1).
  1. Leroux S. et al. Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. Submitted to *Ocean Science*, under review, doi:[10.5194/os-2022-11](https://doi.org/10.5194/os-2022-11).
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  1. Labreuche P., C. Staquet and **J. Le Sommer**. Resonant growth of inertial oscillations from lee waves in the deep ocean. Submitted to *Geophysical and Astrophysical Fluid Dynamics*, under revision. 
 
 ## Peer-reviewed publications
  1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat. A posteriori learning of quasi-geostrophic turbulence parametrization. Accepted for publicatiopn in the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2204.03911](https://arxiv.org/abs/2204.03911).
+ 1. Jamet Q. et al (2022). Non-local Eddy-Mean Kinetic Energy Transfers in Submesoscale-Permitting Ensemble Simulations. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2022MS003057](https://doi.org/10.1029/2022MS003057), preprint on ESSOAr doi:[10.1002/essoar.10510686.1](https://doi.org/10.1002/essoar.10510686.1).
  1. Uchida T., **J. Le Sommer**, et al. (2022). Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models. *Geophysical Model Development*, 15, 5829–5856, doi:[10.5194/gmd-15-5829-2022](https://doi.org/10.5194/gmd-15-5829-2022).
  1. Uchida T., Q. Jamet, W.K. Dewar, D. Balwada, **J. Le Sommer** and T. Penduff (2022). Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble, Part I: The Eliassen–Palm flux. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2021MS002866](https://doi.org/10.1029/2021MS002866).
  1. Le Guillou et al. (2021). Joint estimation of balanced motions and internal tides from future wide-swath altimetry. *Journal of Advances in Modeling Earth Systems*, 13(12), doi:[10.1029/2021MS002613](https://doi.org/10.1029/2021MS002613); preprint on ESSOAr doi:[10.1002/essoar.10507073.1](https://www.essoar.org/doi/abs/10.1002/essoar.10507073.1).
