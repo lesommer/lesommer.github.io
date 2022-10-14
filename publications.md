@@ -24,11 +24,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Peer-reviewed publications
-<<<<<<< HEAD
  1. Leroux S. et al. (2022). Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. Accepted for publication in  *Ocean Science*, doi:[10.5194/os-2022-11](https://doi.org/10.5194/os-2022-11).
-=======
  1. Labreuche P., C. Staquet and **J. Le Sommer** (2022). Resonant growth of inertial oscillations from lee waves in the deep ocean. Accepted for publication in *Geophysical and Astrophysical Fluid Dynamics*. 
->>>>>>> 648abe37a351381765fb07442c7433d3c94e0ae1
  1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat (2022). A posteriori learning of quasi-geostrophic turbulence parametrization. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2022MS003124](https://doi.org/10.1029/2022MS003124), preprint on arXiv:[2204.03911](https://arxiv.org/abs/2204.03911).
  1. Jamet Q. et al. (2022). Non-local Eddy-Mean Kinetic Energy Transfers in Submesoscale-Permitting Ensemble Simulations. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2022MS003057](https://doi.org/10.1029/2022MS003057), preprint on ESSOAr doi:[10.1002/essoar.10510686.1](https://doi.org/10.1002/essoar.10510686.1).
  1. Uchida T., **J. Le Sommer**, et al. (2022). Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models. *Geophysical Model Development*, 15, 5829–5856, doi:[10.5194/gmd-15-5829-2022](https://doi.org/10.5194/gmd-15-5829-2022).
