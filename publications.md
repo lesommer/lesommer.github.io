@@ -19,6 +19,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Lguensat R. et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
+ 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. Uchida T. et al. Cautionary tales from the mesoscale eddy diffusivity tensor. Submitted to *Ocean Modelling*. 
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  
