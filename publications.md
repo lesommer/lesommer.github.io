@@ -113,5 +113,5 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1.  Molines, J.-M., A.-M. Treguier, B. Barnier, L. Brodeau, **J. Le Sommer**, G. Madec, T. Penduff, S. Theetten, Y. Drillet, C. Talandier, J. Orr, and Z. Lachkar (2006). Le modèle DRAKKAR de la variabilité océanique globale, 1958-2004, IDRIS Newsletter. [[pdf]](http://archimer.ifremer.fr/doc/00027/13871/).
 
 ## Academic dissertations
-1 **Le Sommer J.** (2021). Modélisation numérique pour l’étude de la variabilité et des interactions d’échelles dans l’océan (in french). Memoire d'habilitation à diriger des recherches., Univ. Grenoble Alpes. [[web version]](https://lesommer.github.io/habilitation-recherche/)
-1 **Le Sommer J.**  (2004). Nonlinear geostrophic adjustment : emission, propagation and breaking of inertia-gravity waves (in french). PhD, Univ. Paris VI. supervised by Pr. Vladimir Zeitlin.
+1. **Le Sommer J.** (2021). Modélisation numérique pour l’étude de la variabilité et des interactions d’échelles dans l’océan (in french). Memoire d'habilitation à diriger des recherches., Univ. Grenoble Alpes. [[web version]](https://lesommer.github.io/habilitation-recherche/)
+1. **Le Sommer J.**  (2004). Nonlinear geostrophic adjustment : emission, propagation and breaking of inertia-gravity waves (in french). PhD, Univ. Paris VI. supervised by Pr. Vladimir Zeitlin.
