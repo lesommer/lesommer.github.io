@@ -20,11 +20,11 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Submitted papers and papers in revision
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*.
- 1. Uchida T. et al. Cautionary tales from the mesoscale eddy diffusivity tensor. Submitted to *Ocean Modelling*. 
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  
 
 ## Peer-reviewed publications
+ 1. Uchida T. et al. (2023).  Cautionary tales from the mesoscale eddy diffusivity tensor. Accepted for publication in *Ocean Modelling*.
  1. Leroux S. et al. (2022). Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. *Ocean Science*, 18, 1619–1644. doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022).
  1. Labreuche P., C. Staquet and **J. Le Sommer** (2022). Resonant growth of inertial oscillations from lee waves in the deep ocean. *Geophysical and Astrophysical Fluid Dynamics*. doi:[10.1080/03091929.2022.2138865](https://doi.org/10.1080/03091929.2022.2138865) 
  1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat (2022). A posteriori learning of quasi-geostrophic turbulence parametrization. *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2022MS003124](https://doi.org/10.1029/2022MS003124), preprint on arXiv:[2204.03911](https://arxiv.org/abs/2204.03911).
