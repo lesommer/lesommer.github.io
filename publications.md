@@ -112,6 +112,6 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1.  Barnier B., L. Brodeau, **J. Le Sommer**, J-M Molines, T. Penduff, S. Theetten, A-M Treguier, G. Madec, A. Biastoch, C. Böning, J. Dengg, S. Gulev, R. Bourdalle Badie, J. Chanut, G. Garric, S. Alderson, A. Coward, B. de Cuevas, A. New, K. Haines, G. Smith, S. Drijfhout, W. Hazeleger, C. Severijns, P. Myers (2007). Eddy-permitting ocean circulation hindcasts of past decades. *CLIVAR Exchanges Newsletter*, 42, 12(3), 8-10. [[pdf]](http://eprints.soton.ac.uk/47576/01/Exch_42_Jul07.pdf).
 1.  Molines, J.-M., A.-M. Treguier, B. Barnier, L. Brodeau, **J. Le Sommer**, G. Madec, T. Penduff, S. Theetten, Y. Drillet, C. Talandier, J. Orr, and Z. Lachkar (2006). Le modèle DRAKKAR de la variabilité océanique globale, 1958-2004, IDRIS Newsletter. [[pdf]](http://archimer.ifremer.fr/doc/00027/13871/).
 
-## PhD Thesis dissertation
+## Academic dissertations
 1 **Le Sommer J.** (2021). Modélisation numérique pour l’étude de la variabilité et des interactions d’échelles dans l’océan (in french). Memoire d'habilitation à diriger des recherches., Univ. Grenoble Alpes. [[web version]](https://lesommer.github.io/habilitation-recherche/)
 1 **Le Sommer J.**  (2004). Nonlinear geostrophic adjustment : emission, propagation and breaking of inertia-gravity waves (in french). PhD, Univ. Paris VI. supervised by Pr. Vladimir Zeitlin.
