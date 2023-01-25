@@ -15,6 +15,7 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
+ 1. Treguier et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
  1. Lguensat R. et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. In preparation for *IEEE Transactions on Geoscience and Remote Sensing*
