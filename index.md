@@ -12,7 +12,7 @@ I am **physical oceanographer**, interested in **cross-scale interactions** in t
 Research appointments will be **considered at any time** for candidates with an outstanding profile. A number of schemes are available for funding **PhD** or **postdoctoral positions**. Interested applicants should contact me by email. 
 
 ## Recent posts
-{% for post in site.posts %}
+{% for post in site.posts limit:2%}
    - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
