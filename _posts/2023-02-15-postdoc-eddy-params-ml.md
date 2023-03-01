@@ -39,16 +39,27 @@ The selected candidate will hold a PhD in physical oceanography or in computatio
 The selection panel will also consider the gender balance of the entire research team.
 
 ## Job information
+
 Employer: CNRS.
+
 Type of contract: fixed-term.
+
 CNRS Section: 19.
+
 Duration of contract: 12 months (renewable).
+
 Expected date of hire: April to July 2023.
+
 Work quota: Full time.
+
 Required level of studies: PhD.
+
 Required experience: No postdoctoral experience required.
+
 Gross salary: from 2800€/month to 4100€/month (depending on experience).
+
 Paid leave: approximately 45 days per year.
+
 Health care: France runs a statutory health insurance system providing universal coverage for its residents (Sécurité Sociale). Most residents additionally pay for a complementary private health insurance for expenses not covered by the statutory health insurance (Mutuelle).
 
 

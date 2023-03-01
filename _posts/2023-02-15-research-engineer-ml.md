@@ -6,7 +6,7 @@ date: 2023-02-15
 
 
 
-Our research group is advertizing for a research engeneer position to work for CNRS at [Institute of Geosciences and Environment](https://www.ige-grenoble.fr/?lang=en), Grenoble, France. 
+Our research group is advertizing for a research engineer position to work for CNRS at [Institute of Geosciences and Environment](https://www.ige-grenoble.fr/?lang=en), Grenoble, France. 
 
 ### Mission
 The general mission is to develop coupling strategies for interfacing ocean circulation models with AI-based trainable components. The selected candidate will contribute to the MEDIATION project and to the M2LINES project.
@@ -26,27 +26,38 @@ The selected candidate will be in charge of providing quantitative information a
 
 ### Requirements and selection criteria
 The selected candidate will hold a MSc in computer science, engineer or PhD. The selection will be based on the following scientific and technical criteria:
-demonstrated experience in High Performance Computing; 
-demonstrated experience in Fortran/C/C++ and Python coding;
-demonstrated experience in (at least) one of the prominent machine learning frameworks (PyTorch, TensorFlow,… );
-basic understanding of Computational Fluid Dynamics and subgrid closures for fluid flows;
-experience in running atmospheric, ocean circulation or climate models (not compulsory);
-demonstrated ability to work within a team.
+ - demonstrated experience in High Performance Computing; 
+ - demonstrated experience in Fortran/C/C++ and Python coding;
+ - demonstrated experience in (at least) one of the prominent machine learning frameworks (PyTorch, TensorFlow,… );
+ - basic understanding of Computational Fluid Dynamics and subgrid closures for fluid flows;
+ - experience in running atmospheric, ocean circulation or climate models (not compulsory);
+ - demonstrated ability to work within a team.
 The selection panel will also consider the gender balance of the entire research team. Junior candidates with a fresh title are also welcome. This position may help you build a curriculum in the very active domain of hybridization between Numerical Simulation and Deep Learning (ML4Sci)
 
 ## Job information
 
 Employer: CNRS.
+
 Type of contract: fixed-term.
+
 CNRS category: BAP E
+
 Job Type: Expert in scientific computing (E1E45).
+
 Duration of contract: 18 months.
+
 Expected date of hire: between April 1st and July 1st, 2023
+
 Work quota: Full time.
+
 Required level of studies: Completed PhD or Engineering School.
+
 Required experience: No experience required.
+
 Gross salary: from 2580€/month to 2970€/month (depending on experience).
+
 Paid leave: approximately 45 days per year.
+
 Health care: France runs a statutory health insurance system providing universal coverage for its residents (Sécurité Sociale). Most residents additionally pay for a complementary private health insurance for expenses not covered by the statutory health insurance (Mutuelle).
 
 ## If you are interested:
