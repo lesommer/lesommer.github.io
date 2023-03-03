@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 ## On-going projects
+ - 2023 - 2025 : EDITO-Model Lab (Horizon Europe, PI : Y. Drillet) )
  - 2021 - 2025 : M2LINES (VESRI, PI : L. Zanna and A. Adcroft).
  - 2022 - 2025 : MEDIATION (PPR Ocean and Climate, PI : L. Debreu / P. Marchesiello / F. Dumas) 
  - 2020 - 2024 : MeLODy (ANR, PI. R. Fablet).
