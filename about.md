@@ -7,7 +7,9 @@ permalink: /about/
 ![image]({{site.baseurl}}/img/avatar-round.png "Avatar of J. Le Sommer"){:width="200px" style="float: left"}
 
 
-I am **[CNRS](http://www.cnrs.fr/)** a senior research scientist in the field of **Computational Oceanography**. I am leading the **[MEOM group](http://meom-group.github.io/)** at the **[Institute of Environmental Geosciences](https://www.ige-grenoble.fr)** in Grenoble, France. I am involved in the development of the **[NEMO](http://www.nemo-ocean.eu/)**  ocean/sea-ice model. I am a member of **[CLIVAR Ocean Model Development pannel](http://www.clivar.org/clivar-panels/omdp)** and a member of **[SWOT Science Team](https://swot.jpl.nasa.gov/science/sdt/)**.
+I am a **[CNRS](http://www.cnrs.fr/)** senior research scientist in the field of **Computational Oceanography**. With my colleague Thierry Penduff, I am leading the **[MEOM group](http://meom-group.github.io/)** at the **[Institute of Environmental Geosciences](https://www.ige-grenoble.fr)** in Grenoble, France. 
+
+I am involved in the development of the **[NEMO](http://www.nemo-ocean.eu/)**  ocean/sea-ice model. I am a member of **[CLIVAR Ocean Model Development pannel](http://www.clivar.org/clivar-panels/omdp)** and a member of **[SWOT Science Team](https://swot.jpl.nasa.gov/science/sdt/)**.
 
 I am interested in **ocean fine scale processes**, namely oceanic processes with scales < 200km. I am curious about how they can be **observed from space**, how they affect **large-scale ocean circulation** and climate and how they can be represented in **ocean models and prediction systems**. My research is mostly focused on ocean fine scale processes at **mid and high latitudes**.
 
