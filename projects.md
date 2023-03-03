@@ -5,17 +5,17 @@ permalink: /projects/
 ---
 
 ## On-going projects
- - 2023 - 2025 : EDITO-Model Lab (Horizon Europe, PI : Y. Drillet) )
- - 2021 - 2025 : M2LINES (VESRI, PI : L. Zanna and A. Adcroft).
- - 2022 - 2025 : MEDIATION (PPR Ocean and Climate, PI : L. Debreu / P. Marchesiello / F. Dumas) 
- - 2020 - 2024 : MeLODy (ANR, PI. R. Fablet).
- - 2021 - 2023 : ML-DROP : Machine Learning Lagrangian Drift of Particles in the Ocean (IRGA- MIAI, PI : J. Le Sommer) 
+ - 2023 - 2025 : EDITO-Model Lab (Horizon Europe, PI : Y. Drillet) 
+ - 2021 - 2025 : M2LINES (VESRI, PIs : L. Zanna and A. Adcroft).
+ - 2022 - 2025 : MEDIATION (PPR Ocean et Climat, PIs : L. Debreu / P. Marchesiello / F. Dumas) 
+ - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet).
  - 2020 - 2023 : MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme).
  - 2020 - 2023 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier).
  - 2019 - 2023 : CONTACTS (MOPGA, PI : T. Penduff and W.K. Dewar)
 
 ## Past projects
- - 2019 - 2022 : IMMERSE, improving ocean models for the Copernicus programme (H2020, coord. J. Le Sommer )
+ - 2021 - 2023 : ML-DROP : Machine Learning Lagrangian Drift of Particles in the Ocean (IRGA-MIAI, PI : J. Le Sommer)
+ - 2019 - 2022 : IMMERSE : improving ocean models for the Copernicus programme (H2020, coord. J. Le Sommer )
  - 2019 - 2021 : DEDALES (CNRS/PRIME; PI : G. Balarac)
  - 2018 - 2021 : BOOST-SWOT (ANR, PI : E. Cosme)
  - 2017 - 2020 : Data@UGA : Grenoble Data Institute. (CDP UGA, PI. M. Blum).
@@ -37,4 +37,4 @@ permalink: /projects/
  - 2009- 2011 : MEDSO: Quantifying lateral stirring in the Southern Ocean (EGIDE PHC, PI: J. Le Sommer and E. Shuckburgh).
 
 ![image]({{site.baseurl}}/img/PERIANT8.png "Southern Ocean surface currents")
-*The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in Southern Ocean response to atmospheric variability.* 
+*The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in the response of the Southern Ocean to atmospheric variability.* 
