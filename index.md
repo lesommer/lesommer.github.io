@@ -9,7 +9,7 @@ layout: default
 
 <br>
 
-I am **computational oceanographer**, interested in **cross-scale interactions** in the ocean and the climate system. I use and develop numerical tools to prepare the observations of **ocean dynamics from space**, to better understand its functioning and to improve its **representation in forecasting systems** and climate models. Most of my current projects leverage **machine learning and differentiable programming**.  
+I am **[computational oceanographer](https://doi.org/10.1175/BAMS-D-20-0258.1)**, interested in **cross-scale interactions** in the ocean and the climate system. I use and develop numerical tools to prepare the observations of **ocean dynamics from space**, to better understand its functioning and to improve its **representation in forecasting systems** and climate models. Most of my current projects leverage **machine learning and differentiable programming**.  
 
 <br>
 
