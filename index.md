@@ -5,7 +5,7 @@ layout: default
 
 
 
-![image]({{site.baseurl}}/img/JLS_round.png "image of J. Le Sommer"){:width="200px" style="float: left"}
+![image]({{site.baseurl}}/img/JLS_round.png "image of J. Le Sommer"){:width="200px" style="float: right"}
 
 <br>
 
