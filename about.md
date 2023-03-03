@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image]({{site.baseurl}}/img/DSC_4853_nb.jpg "Photo of J. Le Sommer"){:width="200px"}
+![image]({{site.baseurl}}/img/avatar-round.png "Avatar of J. Le Sommer"){:width="200px"}
 
 
 I am **[CNRS](http://www.cnrs.fr/)** a senior research scientist in the field of **Computational Oceanography**. I am leading the **[MEOM group](http://meom-group.github.io/)** at the **[Institute of Environmental Geosciences](https://www.ige-grenoble.fr)** in Grenoble, France. I am involved in the development of the **[NEMO](http://www.nemo-ocean.eu/)**  ocean/sea-ice model. I am a member of **[CLIVAR Ocean Model Development pannel](http://www.clivar.org/clivar-panels/omdp)** and a member of **[SWOT Science Team](https://swot.jpl.nasa.gov/science/sdt/)**.
