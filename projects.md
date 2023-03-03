@@ -4,27 +4,36 @@ title: Research projects
 permalink: /projects/
 ---
 
-
-
-
-
 ## On-going projects
-- "IMMERSE : improving ocean models for the Copernicus programme" (H2020 project, 2018-2022, PI: J. Le Sommer)
-- "DATA@UGA : Grenoble Data Institute." (CDP UGA, 2017-2020, PI: M. Blum).
-- "OSTOMA-SWOT : Préparer l’Observation Spatiale de la Turbulence Océanique par la Mission Altimétrique SWOT" (AGIR/UGA, 2016-2019, PI:J. Le Sommer).
-- "Ocean modelling and data-assimilation for SWOT mission : preparing the inversion of SWOT Ocean Data" (CNES/NASA, 2016-2019; PI: J. Le Sommer and E. Cosme)
+ - 2021 - 2025 : M2LINES (VESRI, PI : L. Zanna and A. Adcroft).
+ - 2022 - 2025 : MEDIATION (PPR Ocean and Climate, PI : L. Debreu / P. Marchesiello / F. Dumas) 
+ - 2020 - 2024 : MeLODy (ANR, PI. R. Fablet).
+ - 2021 - 2023 : ML-DROP : Machine Learning Lagrangian Drift of Particles in the Ocean (IRGA- MIAI, PI : J. Le Sommer) 
+ - 2020 - 2023 : MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme).
+ - 2020 - 2023 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier).
+ - 2019 - 2023 : CONTACTS (MOPGA, PI : T. Penduff and W.K. Dewar)
 
 ## Past projects
-*   "ENGLOBE : An Eddying Numerical Global Green Ocean" (LEFE/INSU, 2014-2016, PI: J. Le Sommer)
-*   "Ocean mesoscales and submesocales: observability, modelling and data assimilation for SWOT" (CNES/NASA, 2013-2015, PI: J. Le Sommer)  
-*   "[COMODO](http://www.comodo-ocean.fr/): Communauté de Modélisation Océanographique" (ANR-MN, 2012-2015, PI: L. Debreu)  
-*   "[TANGGO](http://www.tanggo.grenoble.cnrs.fr/): Toward AN Eddying Global Green Ocean" (INSU/LEFE, 2011-2014, PI: M. Lévy, L. Bopp and J. Le Sommer)
-*   "[BIOCOSM](http://servforge.legi.grenoble-inp.fr/projects/wg-tanggo-collab/wiki/BIOCOSMPublic): Un laboratoire régional pour mieux observer, modéliser et comprendre les interactions physico-biogéochimiques multi-échelles dans l'océan austral" (CNES, 2011-2013, PI: J. Le Sommer and M. Levy)
-*   "VARFLUX: Impact du Mode Annulaire Austral sur les flux air-mer dans l'océan austral (CIBLE, région Rhône-Alpes, 2010-2013, PI: J. Le Sommer and H. Gallée)"
-*   "CO2SUD : Variabilité des flux air-mer de CO2  dans l'hémisphère austral : rôle des modes de variabilité atmosphérique et de la mésoéchelle océanique" (INSU/LEFE, 2010-2012, PI: J. Le Sommer and M. Gehlen)
-*   "[SouthernCross](http://servforge.legi.grenoble-inp.fr/projects/wg-southern-cross) : Southern Ocean variability and Cross-scale interactions" (ANR-JCJC, 2009-2012, PI: J. Le Sommer).
-*   "MEDSO: Quantifying lateral stirring in the Southern Ocean" (EGIDE PHC, 2009-2011, PI: J. Le Sommer and E. Shuckburgh)
-*   "DRAKKAR : Climate variability of subpolar gyres and southern oceans" (INSU/LEFE, 2007-2010, PI: A.M. Treguier, with co-PI: J. Le Sommer)
+ - 2019 - 2022 : IMMERSE, improving ocean models for the Copernicus programme (H2020, coord. J. Le Sommer )
+ - 2019 - 2021 : DEDALES (CNRS/PRIME; PI : G. Balarac)
+ - 2018 - 2021 : BOOST-SWOT (ANR, PI : E. Cosme)
+ - 2017 - 2020 : Data@UGA : Grenoble Data Institute. (CDP UGA, PI. M. Blum).
+ - 2017 - 2020 : SOBUMS : Southern Ocean Biogeochemistry Under Multiple Stressors (ANR PRCE, initial PI: J. Le Sommer).
+ - 2016 - 2019 : Preparing the inversion of SWOT Ocean Data (CNES-NASA, PIs : J. Le Sommer et E. Cosme)
+ - 2016 - 2019 : OSTOMA-SWOT (AGIR/UGA, PI : J. Le Sommer)
+ - 2016 - 2019 : MOMOMS (OSTST CNES/NASA, PI : E. Cosme).
+ - 2015 - 2019 : TROIS-AS (ANR JCJC, PI : N. Jourdain).
+ - 2014 - 2015 : ENGLOBE : An Eddying Numerical Global Green Ocean (projet LEFE-INSU, co-PI : J. Le Sommer)
+ - 2012 - 2015 : COMODO: Communauté de Modélisation Océanographique (ANR-MN, PI: L. Debreu). 
+ - 2013 - 2015 : Ocean mesoscales and submesoscale : observability, modelling and data assimilation for SWOT (CNES-TOSCA 2013-2015, PI : J. Le Sommer).
+ - 2012 - 2014 : MOREWAVES (Labex OSUG@2020 et INSU/LEFE, PI: C. Staquet and J. Le Sommer). 
+ - 2012 - 2014 : MyOceanII (EU FP7, 2012-2014) et MyOceanFo (EU H2020, 2014).
+ - 2011 - 2014 : TANGGO: Toward AN Eddying Global Green Ocean (INSU/LEFE PI: M. Levy, L. Bopp and J. Le Sommer). 
+ - 2011 - 2013 : BIOCOSM (CNES, PI: J. Le Sommer and M. Levy).
+ - 2010 - 2013 : VARFLUX: Impact du Mode Annulaire Austral sur les flux air-mer dans l’océan austral (CIBLE, région Rhône-Alpes, PI: J. Le Sommer and H. Gallée).
+ - 2010 - 2012 : CO2SUD (INSU/LEFE, PI: J. Le Sommer and M. Gehlen).
+ - 2009 - 2012 : SOUTHERN-CROSS : Southern Ocean variability and Cross-scale interactions (ANR-JCJC, PI: J. Le Sommer).
+ - 2009- 2011 : MEDSO: Quantifying lateral stirring in the Southern Ocean (EGIDE PHC, PI: J. Le Sommer and E. Shuckburgh).
 
 ![image]({{site.baseurl}}/img/PERIANT8.png "Southern Ocean surface currents")
 *The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in Southern Ocean response to atmospheric variability.* 

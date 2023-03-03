@@ -4,7 +4,7 @@ layout: default
 
 
 
-I am **physical oceanographer**, interested in **cross-scale interactions** in the ocean and the climate system. My work involves designing and analysing **realistic ocean model simulations** that describe **oceanic physical processes** over a wide range of space and time scales.
+I am **computational oceanographer**, interested in **cross-scale interactions** in the ocean and the climate system. I use and develop numerical tools to prepare the observations of **ocean dynamics from space**, to better understand its functioning and to improve its **representation in forecasting systems** and climate models. 
 
 [![image]({{site.baseurl}}/img/JLS_1.png)](https://www.youtube.com/watch?v=8vC7hbxZidY)
 
