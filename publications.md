@@ -28,6 +28,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Journal articles
+ 1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann, H. Glottin. A DNN Framework for Learning Lagrangian Drift With Uncertainty. Accepted for publication in *Applied Intelligence*. Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
  1. Uchida T. et al. (2023).  Cautionary tales from the mesoscale eddy diffusivity tensor. *Ocean Modelling*, 182. doi:[10.1016/j.ocemod.2023.102172](https://doi.org/10.1016/j.ocemod.2023.102172)
  1. Leroux S. et al. (2022). Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. *Ocean Science*, 18, 1619–1644. doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022).
  1. Labreuche P., C. Staquet and **J. Le Sommer** (2022). Resonant growth of inertial oscillations from lee waves in the deep ocean. *Geophysical and Astrophysical Fluid Dynamics*. doi:[10.1080/03091929.2022.2138865](https://doi.org/10.1080/03091929.2022.2138865) 
@@ -100,7 +101,6 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Conference papers 
 1. Johnson J.E., R. Lguensat, R. Fablet, E. Cosme and **J. Le Sommer**. Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables. Fifth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2022). Preprint on arXiv:[2211.10444](https://arxiv.org/abs/2211.10444), [[pdf]](https://arxiv.org/pdf/2211.10444)
-1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann, H. Glottin. A DNN Framework for Learning Lagrangian Drift With Uncertainty. 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 2022). Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
 1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat (2021). A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps. Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Preprint on arXiv:[2111.06841](https://arxiv.org/abs/2111.06841), [[pdf]](https://arxiv.org/pdf/2111.06841)
 1. Febvre Q., R. Fablet, **J. Le Sommer** and C. Ubelmann (2021). Joint calibration and mapping of satellite altimetry data using trainable variational models. Submitted to IEEE ICASSP 2022. Preprint on arXiv:[2110.03405](https://arxiv.org/abs/2110.03405), [[pdf]](https://arxiv.org/pdf/2110.03405).
 1. Lguensat R., R. Fablet, **J. Le Sommer**, S. Metref, E. Cosme, K. Ouenniche, L. Drumetz, J. Gula (2020). Filtering Internal tides from wide-swath altimeter data using Convolutional Neural Networks. 2020 IEEE International Geoscience and Remote Sensing Symposium, IGARSS, 2020. Preprint on arXiv:[2005.01090](https://arxiv.org/abs/2005.01090), [[pdf]](https://arxiv.org/pdf/2005.01090.pdf).
