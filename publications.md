@@ -15,20 +15,22 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
- 1. J. E. Johnson et al. Neural fields for the interpolation of remote-sensing ocean surface fields. In preparation for the *Journal of Advances in Modeling Earth Systems*.
+ 1. Frezat H. et al. A Split-step strategy for the on-line learning of subgrid-scale dynamics through differentiable emulators. In preparation for the *Journal of Computational Physics*. 
+ 1. Johnson J.E. et al. Neural fields for the interpolation of remote-sensing ocean surface fields. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
  1. Lguensat R. et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
- 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. In preparation for *IEEE Transactions on Geoscience and Remote Sensing*
+ 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. In preparation for *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497)
 
 ## Submitted papers and papers in revision
- 1. Treguier et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. Submitted to *Geophysical Model Development*.
- 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*.
+ 1. Wang Q. et al.  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). Submitted to *Geophysical Model Development*.
+ 1. Treguier A.-M. et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. Submitted to *Geophysical Model Development*, doi:[10.5194/egusphere-2023-310](https://doi.org/10.5194/egusphere-2023-310).
+ 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  
 
 ## Journal articles
- 1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann, H. Glottin. A DNN Framework for Learning Lagrangian Drift With Uncertainty. Accepted for publication in *Applied Intelligence*. Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
+ 1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann and H. Glottin (2023). A DNN Framework for Learning Lagrangian Drift With Uncertainty. Accepted for publication in *Applied Intelligence*. Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
  1. Uchida T. et al. (2023).  Cautionary tales from the mesoscale eddy diffusivity tensor. *Ocean Modelling*, 182. doi:[10.1016/j.ocemod.2023.102172](https://doi.org/10.1016/j.ocemod.2023.102172)
  1. Leroux S. et al. (2022). Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. *Ocean Science*, 18, 1619–1644. doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022).
  1. Labreuche P., C. Staquet and **J. Le Sommer** (2022). Resonant growth of inertial oscillations from lee waves in the deep ocean. *Geophysical and Astrophysical Fluid Dynamics*. doi:[10.1080/03091929.2022.2138865](https://doi.org/10.1080/03091929.2022.2138865) 
@@ -101,8 +103,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Conference papers 
 1. Johnson J.E., R. Lguensat, R. Fablet, E. Cosme and **J. Le Sommer**. Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables. Fifth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2022). Preprint on arXiv:[2211.10444](https://arxiv.org/abs/2211.10444), [[pdf]](https://arxiv.org/pdf/2211.10444)
+1. Febvre Q., R. Fablet, **J. Le Sommer** and C. Ubelmann (2022). Joint calibration and mapping of satellite altimetry data using trainable variational models. IEEE ICASSP 2022. Preprint on arXiv:[2110.03405](https://arxiv.org/abs/2110.03405), [[pdf]](https://arxiv.org/pdf/2110.03405).
 1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat (2021). A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps. Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Preprint on arXiv:[2111.06841](https://arxiv.org/abs/2111.06841), [[pdf]](https://arxiv.org/pdf/2111.06841)
-1. Febvre Q., R. Fablet, **J. Le Sommer** and C. Ubelmann (2021). Joint calibration and mapping of satellite altimetry data using trainable variational models. Submitted to IEEE ICASSP 2022. Preprint on arXiv:[2110.03405](https://arxiv.org/abs/2110.03405), [[pdf]](https://arxiv.org/pdf/2110.03405).
 1. Lguensat R., R. Fablet, **J. Le Sommer**, S. Metref, E. Cosme, K. Ouenniche, L. Drumetz, J. Gula (2020). Filtering Internal tides from wide-swath altimeter data using Convolutional Neural Networks. 2020 IEEE International Geoscience and Remote Sensing Symposium, IGARSS, 2020. Preprint on arXiv:[2005.01090](https://arxiv.org/abs/2005.01090), [[pdf]](https://arxiv.org/pdf/2005.01090.pdf).
 1. Lguensat R., **J. Le Sommer**, S. Metref, E. Cosme and R. Fablet (2019). Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models. Machine Learning and the Physical Sciences Workshop at the 33rd Conference on Neural Information Processing Systems (NeurIPS). arXiv:[1911.08856](https://arxiv.org/abs/1911.08856), [[pdf]](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_28.pdf).
 1. Fablet R., **J. Le Sommer**, J. M. Molines, L. Drumetz, F. Rousseau and B. Chapron, Learning Differential Transport Operators for the Joint Super-Resolution of Sea Surface Tracers and Prediction of Subgrid-Scale Features. 2019 IEEE International Geoscience and Remote Sensing Symposium, IGARSS, 2019. pp. 7916-7919, doi:[10.1109/IGARSS.2019.8900571](http://dx.doi.org/10.1109/IGARSS.2019.8900571).
