@@ -15,6 +15,7 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
+ 1. Febvre Q., J. Le Sommer, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. In preparation for the *Journal of Advances in Modeling Earth Systems*. 
  1. Frezat H. et al. A Split-step strategy for the on-line learning of subgrid-scale dynamics through differentiable emulators. In preparation for the *Journal of Computational Physics*. 
  1. Johnson J.E. et al. Neural fields for the interpolation of remote-sensing ocean surface fields. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
