@@ -15,15 +15,13 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
- 1. Febvre Q., J. Le Sommer, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. In preparation for the *Journal of Advances in Modeling Earth Systems*. 
  1. Frezat H. et al. A Split-step strategy for the on-line learning of subgrid-scale dynamics through differentiable emulators. In preparation for the *Journal of Computational Physics*. 
- 1. Johnson J.E. et al. Neural fields for the interpolation of remote-sensing ocean surface fields. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
- 1. Lguensat R. et al. Deep Learning for the filtering of wave motions from sparse observations of sea surface height. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
- 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497)
+ 1. Febvre Q., J. Le Sommer, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
+ 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497), under revision.
  1. Wang Q. et al.  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). Submitted to *Geophysical Model Development*.
  1. Treguier A.-M. et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. Submitted to *Geophysical Model Development*, doi:[10.5194/egusphere-2023-310](https://doi.org/10.5194/egusphere-2023-310).
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
@@ -103,6 +101,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1.  **Le Sommer J.**, S. Medvedev, R. Plougonven and V. Zeitlin (2003). Singularity formation during the relaxation of jets and fronts towards the state of geostrophic equilibrium. *Communications in Nonlinear Science and Numerical Simulation*, 8(3-4), 415-442; doi:[10.1016/S1007-5704(03)00050-9](http://dx.doi.org/10.1016/S1007-5704(03)00050-9).
 
 ## Conference papers 
+1. Johnson, J. E., Febvre, Q., Gorbunova, A., Metref, S., Ballarotta, M., Le Sommer, J., & Fablet, R. (2023). OceanBench: The sea surface height edition. Accepted contribution to NeurIPS 2023 (Dataset and Benchmark track). Preprint on arXiv:[2309.15599](https://doi.org/10.48550/arXiv.2309.15599)
 1. Johnson J.E., R. Lguensat, R. Fablet, E. Cosme and **J. Le Sommer**. Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables. Fifth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2022). Preprint on arXiv:[2211.10444](https://arxiv.org/abs/2211.10444), [[pdf]](https://arxiv.org/pdf/2211.10444)
 1. Febvre Q., R. Fablet, **J. Le Sommer** and C. Ubelmann (2022). Joint calibration and mapping of satellite altimetry data using trainable variational models. IEEE ICASSP 2022. Preprint on arXiv:[2110.03405](https://arxiv.org/abs/2110.03405), [[pdf]](https://arxiv.org/pdf/2110.03405).
 1. Frezat H., **J. Le Sommer**, R. Fablet, G. Balarac, R. Lguensat (2021). A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps. Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Preprint on arXiv:[2111.06841](https://arxiv.org/abs/2111.06841), [[pdf]](https://arxiv.org/pdf/2111.06841)
