@@ -22,14 +22,14 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
  1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497), under revision.
- 1. Wang Q. et al.  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). Submitted to *Geophysical Model Development*.
- 1. Treguier A.-M. et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. Submitted to *Geophysical Model Development*, doi:[10.5194/egusphere-2023-310](https://doi.org/10.5194/egusphere-2023-310).
+ 1. Wang Q. et al.  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). Submitted to *Geophysical Model Development*, doi:[10.5194/gmd-2023-123](https://doi.org/10.5194/gmd-2023-123).
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  
 
 ## Journal articles
- 1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann and H. Glottin (2023). A DNN Framework for Learning Lagrangian Drift With Uncertainty. Accepted for publication in *Applied Intelligence*. Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
+ 1. Treguier A.-M. et al. The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies (2023). *Geophysical Model Development*, 16(13), doi:[10.5194/gmd-16-3849-2023](https://doi.org/10.5194/gmd-16-3849-2023).
+ 1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann and H. Glottin (2023). A DNN Framework for Learning Lagrangian Drift With Uncertainty. *Applied Intelligence*, doi:[10.1007/s10489-023-04625-1](https://doi.org/10.1007/s10489-023-04625-1). Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
  1. Uchida T. et al. (2023).  Cautionary tales from the mesoscale eddy diffusivity tensor. *Ocean Modelling*, 182. doi:[10.1016/j.ocemod.2023.102172](https://doi.org/10.1016/j.ocemod.2023.102172)
  1. Leroux S. et al. (2022). Ensemble quantification of short-term predictability of ocean dynamics at kilometric-scale resolution : a Western Mediteranean test case. *Ocean Science*, 18, 1619–1644. doi:[10.5194/os-18-1619-2022](https://doi.org/10.5194/os-18-1619-2022).
  1. Labreuche P., C. Staquet and **J. Le Sommer** (2022). Resonant growth of inertial oscillations from lee waves in the deep ocean. *Geophysical and Astrophysical Fluid Dynamics*. doi:[10.1080/03091929.2022.2138865](https://doi.org/10.1080/03091929.2022.2138865) 
