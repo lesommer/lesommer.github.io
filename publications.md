@@ -15,7 +15,7 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
- 1. Frezat H. et al. A Split-step strategy for the on-line learning of subgrid-scale dynamics through differentiable emulators. In preparation for the *Journal of Computational Physics*. 
+ 1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. In preparation for the *Journal of Computational Physics*. 
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
 
