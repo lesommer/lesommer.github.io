@@ -19,7 +19,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
 
 ## Submitted papers and papers in revision
- 1. Betrand V., V. De Almeida, J. Le Sommer and E. Cosme. Jaxparrow: a Python package solving the cyclogeostrophic balance using a variational formulation. Submitted to the *Journal of Open Source Software*. 
+ 1. Bertrand V., V. De Almeida, **J. Le Sommer** and E. Cosme. Jaxparrow: a Python package solving the cyclogeostrophic balance using a variational formulation. Submitted to the *Journal of Open Source Software*. 
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*.
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
