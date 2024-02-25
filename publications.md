@@ -16,16 +16,14 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Papers in preparation
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
- 1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. In preparation for *Geophysical Research Letters*. 
 
 ## Submitted papers and papers in revision
- 1. Bertrand V., V. De Almeida, **J. Le Sommer** and E. Cosme. Jaxparrow: a Python package solving the cyclogeostrophic balance using a variational formulation. Submitted to the *Journal of Open Source Software*. 
+ 1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. Submitted to *Geophysical Research Letters*.
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
- 1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*.
+ 1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXi:[2310.19385](https://arxiv.org/abs/2310.19385)
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
  1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497), under revision.
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
- 1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Submitted to  *Geophysical Research Letters*, under revision, preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J). 
  
 
 ## Journal articles
@@ -112,6 +110,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1. Fablet R., **J. Le Sommer**, J. M. Molines, L. Drumetz, F. Rousseau and B. Chapron, Learning Differential Transport Operators for the Joint Super-Resolution of Sea Surface Tracers and Prediction of Subgrid-Scale Features. 2019 IEEE International Geoscience and Remote Sensing Symposium, IGARSS, 2019. pp. 7916-7919, doi:[10.1109/IGARSS.2019.8900571](http://dx.doi.org/10.1109/IGARSS.2019.8900571).
 
 ## Book chapters and other publications  
+1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J).
 1. NEMO Consortium (2022). NEMO Development Strategy 2023-2027 (Version 3). Zenodo. https://doi.org/10.5281/zenodo.7361464
 1. Chassignet E., **J. Le Sommer** and A. Wallfart (2019). General Circulation models. Book chapter in "Encyclopedia of Oceans Sciences, 3rd Edition", Academic Press; doi:[10.1016/B978-0-12-409548-9.11410-1](https://doi.org/10.1016/B978-0-12-409548-9.11410-1).
 1. **Le Sommer J.**, E. Chassignet and A. Wallcraft (2018). Ocean circulation modeling for operational oceanography:current status and future challenges. Book chapter in *New Frontiers in Operational Oceanography*; doi:[10.17125/gov2018](https://doi.org/10.17125/gov2018) [[pdf]](https://www.godae.org/~godae-data/School/Chapter12_LeSommer_et_al.pdf).
