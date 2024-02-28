@@ -22,11 +22,11 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXi:[2310.19385](https://arxiv.org/abs/2310.19385)
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
- 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. Submitted to *IEEE Transactions on Geoscience and Remote Sensing*. Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497), under revision.
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  
 
 ## Journal articles
+ 1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. *IEEE Transactions on Geoscience and Remote Sensing*. doi:[10.1109/TGRS.2024.3363503](https://doi.org/10.1109/TGRS.2024.3363503). Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497).
  1. Wang Q. et al. (2023)  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). *Geophysical Model Development*, doi:[10.5194/gmd-2023-123](https://doi.org/10.5194/gmd-2023-123).
  1. Treguier A.-M. et al. (2023) The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. *Geophysical Model Development*, 16(13), doi:[10.5194/gmd-16-3849-2023](https://doi.org/10.5194/gmd-16-3849-2023).
  1. Jenkins J., A. Paiement, Y. Ourmières, **J. Le Sommer**, J. Verron, C. Ubelmann and H. Glottin (2023). A DNN Framework for Learning Lagrangian Drift With Uncertainty. *Applied Intelligence*, doi:[10.1007/s10489-023-04625-1](https://doi.org/10.1007/s10489-023-04625-1). Preprint on arXiv:[2204.05891](https://arxiv.org/abs/2204.05891)
