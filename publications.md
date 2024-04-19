@@ -26,6 +26,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Journal articles
+ 1. Yang, C. et al.  (2024). Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service. Bulletin of the American Meteorological Society, 1(aop). doi:[10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
  1. Febvre, Q. et al. Scale-aware neural calibration for wide swath altimetry observations. *IEEE Transactions on Geoscience and Remote Sensing*. doi:[10.1109/TGRS.2024.3363503](https://doi.org/10.1109/TGRS.2024.3363503). Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497).
  1. Wang Q. et al. (2023)  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). *Geophysical Model Development*, doi:[10.5194/gmd-2023-123](https://doi.org/10.5194/gmd-2023-123).
  1. Treguier A.-M. et al. (2023) The mixed layer depth in the ocean model intercomparison project (OMIP) : impact of resolving mesoscale eddies. *Geophysical Model Development*, 16(13), doi:[10.5194/gmd-16-3849-2023](https://doi.org/10.5194/gmd-16-3849-2023).
