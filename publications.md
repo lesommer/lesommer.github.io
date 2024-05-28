@@ -18,12 +18,12 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
 
 ## Submitted papers and papers in revision
- 1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. Submitted to *Geophysical Research Letters*.
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXi:[2310.19385](https://arxiv.org/abs/2310.19385)
  
 
 ## Journal articles
+ 1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. Accepted for publication in *Geophysical Research Letters*.
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Accepted contribution to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
  1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Accepted contribution to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  1. Yang, C. et al.  (2024). Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service. Bulletin of the American Meteorological Society, 1(aop). doi:[10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
