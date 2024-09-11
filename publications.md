@@ -23,9 +23,9 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Journal articles
- 1. Lahaye N. et al. Space-time properties of the internal tide surface signature in the North Atlantic. Accepted for publication in *Geophysical Research Letters*.
- 1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. Accepted contribution to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
- 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. Accepted contribution to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
+ 1. Lahaye N. et al. Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
+ 1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2023MS003959](https://doi.org/10.1029/2023MS003959). Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
+ 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2023MS003609](https://doi.org/10.1029/2023MS003609), preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  1. Yang, C. et al.  (2024). Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service. Bulletin of the American Meteorological Society, 1(aop). doi:[10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
  1. Febvre, Q. et al. (2024)  Scale-aware neural calibration for wide swath altimetry observations. *IEEE Transactions on Geoscience and Remote Sensing*. doi:[10.1109/TGRS.2024.3363503](https://doi.org/10.1109/TGRS.2024.3363503). Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497).
  1. Wang Q. et al. (2023)  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). *Geophysical Model Development*, doi:[10.5194/gmd-2023-123](https://doi.org/10.5194/gmd-2023-123).
