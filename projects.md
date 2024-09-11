@@ -5,15 +5,19 @@ permalink: /projects/
 ---
 
 ## On-going projects
+ - 2024-2030 : TRACCS-PC5-COMPACT (PEPR, ANR, PI : J. Le Sommer). 
+ - 2024-2027 : SWOT-PALMAS (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
+ - 2024-2027 : AI4PEX (Horizon Europe, PI. : N. Carvalhais). 
  - 2023 - 2025 : EDITO-Model Lab (Horizon Europe, PI : Y. Drillet) 
  - 2021 - 2025 : M2LINES (VESRI, PIs : L. Zanna and A. Adcroft).
  - 2022 - 2025 : MEDIATION (PPR Ocean et Climat, PIs : L. Debreu / P. Marchesiello / F. Dumas) 
  - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet).
+
+
+## Past projects
  - 2020 - 2023 : MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme).
  - 2020 - 2023 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier).
  - 2019 - 2023 : CONTACTS (MOPGA, PI : T. Penduff and W.K. Dewar)
-
-## Past projects
  - 2021 - 2023 : ML-DROP : Machine Learning Lagrangian Drift of Particles in the Ocean (IRGA-MIAI, PI : J. Le Sommer)
  - 2019 - 2022 : IMMERSE : improving ocean models for the Copernicus programme (H2020, coord. J. Le Sommer )
  - 2019 - 2021 : DEDALES (CNRS/PRIME; PI : G. Balarac)
