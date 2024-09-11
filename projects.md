@@ -5,11 +5,12 @@ permalink: /projects/
 ---
 
 ## On-going projects
- - 2024-2030 : TRACCS-PC5-COMPACT (PEPR, ANR, PI : J. Le Sommer). 
- - 2024-2027 : SWOT-PALMAS (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
- - 2024-2027 : AI4PEX (Horizon Europe, PI. : N. Carvalhais). 
- - 2023 - 2025 : EDITO-Model Lab (Horizon Europe, PI : Y. Drillet) 
- - 2021 - 2025 : M2LINES (VESRI, PIs : L. Zanna and A. Adcroft).
+ - 2024 - 2030 : TRACCS-PC5-COMPACT : COMputing PAradigms towards efficient, modular and trainable ClimaTe models (PEPR, ANR, PI : J. Le Sommer). 
+ - 2024 - 2027 : SWOT-PALMAS :  Physics And Learning for Models and Algorithms in the SWOT era. (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
+ - 2024 - 2027 : AI4PEX : Artificial Intelligence for enhanced representation
+of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carvalhais) https://ai4pex.org. 
+ - 2023 - 2025 : EDITO-Model Lab : European Digital Twin Ocean  (Horizon Europe, PI : Y. Drillet) https://www.edito-modellab.eu
+ - 2021 - 2025 : M2LINES (VESRI, PIs : L. Zanna and A. Adcroft) https://m2lines.github.io.
  - 2022 - 2025 : MEDIATION (PPR Ocean et Climat, PIs : L. Debreu / P. Marchesiello / F. Dumas) 
  - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet).
 
