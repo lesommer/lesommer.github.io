@@ -15,17 +15,19 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
+ 1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. In preparation for the *Journal of Advances in Modeling Earth Systems*. 
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
 
 ## Submitted papers and papers in revision
+ 1. Bendinger et al. Characteristics of Mesoscale Eddies in the Labrador Sea: Insights from Ship Observations and a Rankine Vortex Model. Submitted to the *Journal of Physical Oceanography*. 
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
- 1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXi:[2310.19385](https://arxiv.org/abs/2310.19385)
+ 1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
  
 
 ## Journal articles
- 1. Lahaye N. et al. Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
- 1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet. Training neural mapping schemes with simulation data for satellite altimetry. *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2023MS003959](https://doi.org/10.1029/2023MS003959). Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
- 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec. Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2023MS003609](https://doi.org/10.1029/2023MS003609), preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
+ 1. Lahaye N. et al (2024). Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
+ 1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet (2024). Training neural mapping schemes with simulation data for satellite altimetry. *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2023MS003959](https://doi.org/10.1029/2023MS003959). Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
+ 1. Fablet R., B. Chapron, **J. Le Sommer** and F. Sevellec (2024). Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets. *Journal of Advances in Modeling Earth Systems*, doi:[10.1029/2023MS003609](https://doi.org/10.1029/2023MS003609), preprint on arXiv:[2211.13059](https://arxiv.org/abs/2211.13059).
  1. Yang, C. et al.  (2024). Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service. Bulletin of the American Meteorological Society, 1(aop). doi:[10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
  1. Febvre, Q. et al. (2024)  Scale-aware neural calibration for wide swath altimetry observations. *IEEE Transactions on Geoscience and Remote Sensing*. doi:[10.1109/TGRS.2024.3363503](https://doi.org/10.1109/TGRS.2024.3363503). Preprint on arXiv:[2302.04497](https://arxiv.org/abs/2302.04497).
  1. Wang Q. et al. (2024)  Impact of high resolution on Arctic Ocean simulations in Ocean Model Intercomparison Project phase 2 (OMIP-2). *Geophysical Model Development*, doi:[10.5194/gmd-17-347-2024](https://doi.org/10.5194/gmd-17-347-2024).
