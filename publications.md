@@ -15,10 +15,10 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
- 1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. In preparation for the *Journal of Advances in Modeling Earth Systems*. 
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
 
 ## Submitted papers and papers in revision
+ 1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Bendinger et al. Characteristics of Mesoscale Eddies in the Labrador Sea: Insights from Ship Observations and a Rankine Vortex Model. Submitted to the *Journal of Physical Oceanography*. 
  1. Balwada D. et al. Learning Machine Learning with Lorenz-96. Submitted to the *Journal of Open Source Education*. Preprint on ESS Open Archive:[10.22541/essoar.170365239.95851488/v1](https://essopenarchive.org/users/534026/articles/695037-learning-machine-learning-with-lorenz-96) 
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*. Preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
@@ -113,6 +113,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1. Fablet R., **J. Le Sommer**, J. M. Molines, L. Drumetz, F. Rousseau and B. Chapron, Learning Differential Transport Operators for the Joint Super-Resolution of Sea Surface Tracers and Prediction of Subgrid-Scale Features. 2019 IEEE International Geoscience and Remote Sensing Symposium, IGARSS, 2019. pp. 7916-7919, doi:[10.1109/IGARSS.2019.8900571](http://dx.doi.org/10.1109/IGARSS.2019.8900571).
 
 ## Book chapters and other publications  
+1. **Le Sommer J.** and R. Fablet (2022). Opportunities of artificial intelligence for ocean forecasting systems. Book chapter in "Implementing Operational Ocean Monitoring and Forecasting Systems" doi:[10.25607/OBP-1774](http://dx.doi.org/10.25607/OBP-1774) 
 1. Ajayi A., **J. Le Sommer**, et al. On the modulation of kinetic energy transfers by internal gravity waves. Preprint on Eartharxiv doi:[10.31223/X5204J](https://doi.org/10.31223/X5204J).
 1. NEMO Consortium (2022). NEMO Development Strategy 2023-2027 (Version 3). Zenodo. https://doi.org/10.5281/zenodo.7361464
 1. Chassignet E., **J. Le Sommer** and A. Wallfart (2019). General Circulation models. Book chapter in "Encyclopedia of Oceans Sciences, 3rd Edition", Academic Press; doi:[10.1016/B978-0-12-409548-9.11410-1](https://doi.org/10.1016/B978-0-12-409548-9.11410-1).
