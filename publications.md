@@ -15,7 +15,9 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
+ 1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
+
 
 ## Submitted papers and papers in revision
  1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
