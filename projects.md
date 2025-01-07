@@ -5,17 +5,18 @@ permalink: /projects/
 ---
 
 ## On-going projects
+ - 2025 - 2026 : FastClim : Neural operators for fast, accurate, multi-scale weather and climate simulators (CNRS AISSAI, PI : J. Le Sommer)
  - 2024 - 2030 : TRACCS-PC5-COMPACT : COMputing PAradigms towards efficient, modular and trainable ClimaTe models (PEPR, ANR, PI : J. Le Sommer). 
  - 2024 - 2027 : SWOT-PALMAS :  Physics And Learning for Models and Algorithms in the SWOT era. (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
- - 2024 - 2027 : AI4PEX : Artificial Intelligence for enhanced representation
-of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carvalhais) https://ai4pex.org. 
- - 2023 - 2025 : EDITO-Model Lab : European Digital Twin Ocean  (Horizon Europe, PI : Y. Drillet) https://www.edito-modellab.eu
- - 2021 - 2025 : M2LINES (VESRI, PIs : L. Zanna and A. Adcroft) https://m2lines.github.io.
+ - 2024 - 2027 : [AI4PEX](https://ai4pex.org) : Artificial Intelligence for enhanced representation
+of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carvalhais). 
+ - 2023 - 2025 : [EDITO-Model Lab](https://www.edito-modellab.eu) : European Digital Twin Ocean  (Horizon Europe, PI : Y. Drillet)
+ - 2021 - 2025 : [M2LINES](https://m2lines.github.io) (VESRI, PIs : L. Zanna and A. Adcroft).
  - 2022 - 2025 : MEDIATION (PPR Ocean et Climat, PIs : L. Debreu / P. Marchesiello / F. Dumas) 
- - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet).
 
 
 ## Past projects
+ - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet)
  - 2020 - 2023 : MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme).
  - 2020 - 2023 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier).
  - 2019 - 2023 : CONTACTS (MOPGA, PI : T. Penduff and W.K. Dewar)
@@ -39,7 +40,7 @@ of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carva
  - 2010 - 2013 : VARFLUX: Impact du Mode Annulaire Austral sur les flux air-mer dans l’océan austral (CIBLE, région Rhône-Alpes, PI: J. Le Sommer and H. Gallée).
  - 2010 - 2012 : CO2SUD (INSU/LEFE, PI: J. Le Sommer and M. Gehlen).
  - 2009 - 2012 : SOUTHERN-CROSS : Southern Ocean variability and Cross-scale interactions (ANR-JCJC, PI: J. Le Sommer).
- - 2009- 2011 : MEDSO: Quantifying lateral stirring in the Southern Ocean (EGIDE PHC, PI: J. Le Sommer and E. Shuckburgh).
+ - 2009 - 2011 : MEDSO: Quantifying lateral stirring in the Southern Ocean (EGIDE PHC, PI: J. Le Sommer and E. Shuckburgh).
 
 ![image]({{site.baseurl}}/img/PERIANT8.png "Southern Ocean surface currents")
 *The above illustration shows surface currents in the Southern Ocean (m/s) as simulated in a 1/8° model configuration based on NEMO ocean model. This model configuration was developped during SouthernCross project for studying the role of mesoscale eddies in the response of the Southern Ocean to atmospheric variability.* 
