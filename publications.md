@@ -18,7 +18,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Bertrand V. et al. Robust inversion of the cyclogeostrophic balance equation: Application to global Sea Surface Height maps and SWOT ocean data. In preparation for *Geophysical Model Development*.
  1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
-
+ 1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
  1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
@@ -27,6 +27,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Journal articles
+ 1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
  1. Balwada D. et al (2024). Learning Machine Learning with Lorenz-96. *Journal of Open Source Education*. doi:[10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
  1. Lahaye N. et al (2024). Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
  1. Febvre Q., **J. Le Sommer**, C. Ubelmann and R. Fablet (2024). Training neural mapping schemes with simulation data for satellite altimetry. *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2023MS003959](https://doi.org/10.1029/2023MS003959). Preprint on arXiv:[2309.14350](http://arxiv.org/abs/2309.14350)
