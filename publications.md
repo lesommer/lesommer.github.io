@@ -25,8 +25,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  
 
 ## Journal articles
- 1. Bendinger et al. Characteristics of Mesoscale to sibmesoscale Eddies in the Labrador Sea: Insights from Ship Observations. Accepted for publication in the *Journal of Physical Oceanography*.
- 1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17,  e2024MS004857. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
+ 1. Bendinger et al. Characteristics of Mesoscale to submesoscale Eddies in the Labrador Sea: Insights from Ship Observations. Accepted for publication in the *Journal of Physical Oceanography*.
+ 1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic/ baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
  1. Balwada D. et al (2024). Learning Machine Learning with Lorenz-96. *Journal of Open Source Education*. doi:[10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
  1. Lahaye N. et al (2024). Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
