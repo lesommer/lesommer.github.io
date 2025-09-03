@@ -15,12 +15,13 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
- 1. Bertrand V. et al. Robust inversion of the cyclogeostrophic balance equation: Application to global Sea Surface Height maps and SWOT ocean data. In preparation for *Geophysical Model Development*.
+ 1. Barge V. et al. .Eophis: a high performance library for deploying machine learning components in Earth-System models. In preparation for *Geophysical Model Development*.
  1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
+ 1. 1. Bertrand V. et al. A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. submitted to *Geophysical Model Development*.
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
  
 
