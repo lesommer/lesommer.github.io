@@ -21,12 +21,12 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
- 1. Bendinger et al. Characteristics of Mesoscale Eddies in the Labrador Sea: Insights from Ship Observations and a Rankine Vortex Model. Submitted to the *Journal of Physical Oceanography*. 
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
  
 
 ## Journal articles
- 1. Yan et al. Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. Accepted for publication inthe *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
+ 1. Bendinger et al. Characteristics of Mesoscale to sibmesoscale Eddies in the Labrador Sea: Insights from Ship Observations. Accepted for publication in the *Journal of Physical Oceanography*.
+ 1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17,  e2024MS004857. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
  1. Balwada D. et al (2024). Learning Machine Learning with Lorenz-96. *Journal of Open Source Education*. doi:[10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
  1. Lahaye N. et al (2024). Internal Tide Surface Signature and Incoherence in the North Atlantic. *Geophysical Research Letters*, 51(12), doi:[10.1029/2024GL108508](https://doi.org/10.1029/2024GL108508).
