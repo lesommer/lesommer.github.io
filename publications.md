@@ -21,9 +21,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
- 1. Bertrand V. et al. A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. submitted to *Geophysical Model Development*.
+ 1. Bertrand V. et al. A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. Submitted to *Geophysical Model Development*, preprint on eguspehere doi:[10.5194/egusphere-2025-4172](https://doi.org/10.5194/egusphere-2025-4172)
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
- 
 
 ## Journal articles
  1. Bendinger et al. Characteristics of Mesoscale to submesoscale Eddies in the Labrador Sea: Insights from Ship Observations. Accepted for publication in the *Journal of Physical Oceanography*.
