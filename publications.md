@@ -25,7 +25,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
- 1. Bendinger et al. Characteristics of Mesoscale to submesoscale Eddies in the Labrador Sea: Insights from Ship Observations. Accepted for publication in the *Journal of Physical Oceanography*.
+ 1. Bendinger et al. (2025) Characteristics of mesoscale to submesoscale eddies in the labrador sea: Insights from ship observations. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-24-0216.1](https://doi.org/10.1175/JPO-D-24-0216.1)
  1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic/ baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
  1. Balwada D. et al (2024). Learning Machine Learning with Lorenz-96. *Journal of Open Source Education*. doi:[10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
