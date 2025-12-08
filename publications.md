@@ -15,12 +15,14 @@ For publications metrics, see :
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 
 ## Papers in preparation
+ 1. Contreras et al. Online performance of a machine learning parameterization of ocean mixed layer eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Barge A. et al. Eophis: a high performance library for deploying machine learning components in Earth-System models. In preparation for *Geophysical Model Development*.
  1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
+ 1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*.
  1. Bertrand V. et al. A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. Submitted to *Geophysical Model Development*, preprint doi:[10.5194/egusphere-2025-4172](https://doi.org/10.5194/egusphere-2025-4172)
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
@@ -108,7 +110,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 1.  **Le Sommer J.**, S. Medvedev, R. Plougonven and V. Zeitlin (2003). Singularity formation during the relaxation of jets and fronts towards the state of geostrophic equilibrium. *Communications in Nonlinear Science and Numerical Simulation*, 8(3-4), 415-442; doi:[10.1016/S1007-5704(03)00050-9](http://dx.doi.org/10.1016/S1007-5704(03)00050-9).
 
 ## Conference papers 
-1. Meunier E., S. Ouala, H. Frezat, J. Le Sommer and Ronan Fablet. Towards fully differentiable neural ocean model with Veros. Accepted contribution to the workshop "Differentiable Systems and Scientific Machine Learning" at EurIPS2025. [[url]](https://differentiable-systems.github.io/workshop-eurips-2025/)
+1. Meunier E., S. Ouala, H. Frezat, J. Le Sommer and Ronan Fablet. Towards fully differentiable neural ocean model with Veros. Accepted contribution to the workshop "Differentiable Systems and Scientific Machine Learning" at EurIPS2025. [[url]](https://differentiable-systems.github.io/workshop-eurips-2025/) reprint on arXiv [2511.17427](https://arxiv.org/abs/2511.17427)
 1. El Aouni A. , Gaudel Q., Johnson J., Regnier C., **J. Le Sommer**, van Gennip, Fablet R. Drevillon D. Drillet Y. Le Traon P.Y. (2025). OceanBench: a benchmark for data-driven global ocean forecasting systems. Accepted contribution to NeurIPS 2025 (Dataset and Benchmark track). [[pdf]](https://openreview.net/pdf?id=wZGe1Kqs8G)
 1. Botvynko, D., Haslée, P., De Boyer Montégut, C., Chapron, B., Gaultier, L., El Aouni, A., Le Sommer, J., & Fablet, R. (2025). Short-term neural forecasts of sea surface dynamics. OCEANS 2025 Brest, 1–5. doi:[10.1109/OCEANS58557.2025.11104552](https://doi.org/10.1109/OCEANS58557.2025.11104552).
 1. Johnson, J. E., Febvre, Q., Gorbunova, A., Metref, S., Ballarotta, M., **Le Sommer, J.**, & Fablet, R. (2023). OceanBench: The sea surface height edition. Accepted contribution to NeurIPS 2023 (Dataset and Benchmark track). Preprint on arXiv:[2309.15599](https://doi.org/10.48550/arXiv.2309.15599)
