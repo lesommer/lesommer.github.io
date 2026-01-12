@@ -27,7 +27,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
- 1. Gomez-Navarro et al. (2026) Impact of Tidal Forcing on Surface Particle Transport Properties: Insights from Twin Ocean Simulations. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. preprint on EssOAr:[doi](https://doi.org/10.1002/essoar.10512397.5).
+ 1. Gomez-Navarro et al. (2026) Impact of Tidal Forcing on Surface Particle Transport Properties: Insights from Twin Ocean Simulations. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. preprint doi:[10.1002/essoar.10512397.5](https://doi.org/10.1002/essoar.10512397.5).
  1. Bendinger et al. (2025) Characteristics of mesoscale to submesoscale eddies in the labrador sea: Insights from ship observations. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-24-0216.1](https://doi.org/10.1175/JPO-D-24-0216.1)
  1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic/ baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
