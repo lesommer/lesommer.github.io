@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Hackathon on Siùmulatoin Based Inference"
+title: "A Hackathon on Simulation Based Inference"
 date: 2026-01-21
 ---
 
