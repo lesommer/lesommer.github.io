@@ -16,19 +16,19 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Papers in preparation
  1. Contreras et al. Online performance of a machine learning parameterization of ocean mixed layer eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
- 1. Barge A. et al. Deploying Machine Learning components in Earth System Models with OASIS3-MCT (v5.1) and Eophis (v1.1). In preparation for *Geophysical Model Development*.
  1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
 
 ## Submitted papers and papers in revision
+ 1. Barge A. et al. Deploying Machine Learning components in Earth System Models with OASIS3-MCT (v5.1) and Eophis (v1.1). Submitted to *Geophysical Model Development*.
  1. Uchida et al. A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. Submitted to *Geophysical Research Letters*. 
  1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*.
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
  1. Bertrand V. et al. (2026) A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. *Ocean Science*, 22, 241-255.  doi:[10.5194/os-22-241-2026](https://doi.org/10.5194/os-22-241-2026)
- 1. Gomez-Navarro et al. (2026) Impact of Tidal Forcing on Surface Particle Transport Properties: Insights from Twin Ocean Simulations. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. preprint doi:[10.1002/essoar.10512397.5](https://doi.org/10.1002/essoar.10512397.5).
+ 1. Gomez-Navarro et al. (2026) Impact of Tidal Forcing on Surface Particle Transport Properties: Insights from Twin Ocean Simulations. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2024MS004805](http://dx.doi.org/10.1029/2024MS004805). preprint doi:[10.1002/essoar.10512397.5](https://doi.org/10.1002/essoar.10512397.5)
  1. Bendinger et al. (2025) Characteristics of mesoscale to submesoscale eddies in the labrador sea: Insights from ship observations. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-24-0216.1](https://doi.org/10.1175/JPO-D-24-0216.1)
  1. Yan et al. (2025) Adjoint-based online learning of two-layer quasi-geostrophic/ baroclinic turbulence. *Journal of Advances in Modeling Earth Systems*, 17. doi:[10.1029/2024MS004857](https://doi.org/10.1029/2024MS004857). reprint on arXiv:[2411.14106](https://arxiv.org/abs/2411.14106).
  1. Rolland, R. et al. (2025). Internal wave energetics and interactions with mesoscale structures in the Sicily Channel area. Progress in Oceanography, 234, 103465. doi:[10.1016/j.pocean.2025.103465](https://doi.org/10.1016/j.pocean.2025.103465)
