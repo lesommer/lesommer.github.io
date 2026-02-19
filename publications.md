@@ -23,7 +23,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
  1. Barge A. et al. Deploying Machine Learning components in Earth System Models with OASIS3-MCT (v5.1) and Eophis (v1.1). Submitted to *Geophysical Model Development*.
  1. Uchida et al. A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. Submitted to *Geophysical Research Letters*. 
- 1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*.
+ 1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
