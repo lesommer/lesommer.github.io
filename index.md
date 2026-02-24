@@ -17,7 +17,7 @@ I am **[computational oceanographer](https://doi.org/10.1175/BAMS-D-20-0258.1)**
 Research appointments will be **considered at any time** for candidates with an outstanding profile. A number of schemes are available for funding **PhD** or **postdoctoral positions**. Interested applicants should contact me by email. 
 
 ## Recent posts
-{% for post in site.posts limit:1%}
+{% for post in site.posts limit:2%}
    - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
