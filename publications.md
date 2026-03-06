@@ -18,12 +18,16 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Contreras et al. Online performance of a machine learning parameterization of ocean mixed layer eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. Le Roux E. et al. Equation discovery for climate impact: symbolic regression to emulate regional impact indicators for unseen climate scenarios. In preparation for *Geophysical Model Development*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
- 1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. In preparation for *Geophysical Researh Letters*. 
+ 1. Durand et al. Learning-based methods and the future of numerical modeling. Sollicited manuscript for the *Annual Review of Marine Science* 
+ 1. Ouala et al. Leveraging differentiable programming for ocean model design and calibration. In preparation for the *Journal of Advances in Modeling Earth Systems*.
+ 1. Zhu et al. End-to-end learning from simulated observations for the neural global-scale mapping of real altimetry data. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
+
  1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Submitted to *Geophysical Model Development*.
  1. Uchida et al. A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. Submitted to *Geophysical Research Letters*. preprint on arXiv:[2601.18182](https://arxiv.org/abs/2601.18182) 
  1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
+ 1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. Submitted to *Geophysical Researh Letters*, under revision.
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
