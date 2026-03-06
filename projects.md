@@ -5,9 +5,9 @@ permalink: /projects/
 ---
 
 ## On-going projects
- - 2025 - 2029 : SBI4C : Simulation Based Inference for Climate (ClusterIA MIAI, PI : P. Rodrigues and J. Le Sommer)
+ - 2025 - 2029 : [SBI4C](https://sbi4c.inria.fr) : Simulation Based Inference for Climate (ClusterIA MIAI, PI : P. Rodrigues and J. Le Sommer)
  - 2025 - 2026 : FastClim : Neural operators for fast, accurate, multi-scale weather and climate simulators (CNRS AISSAI, PI : J. Le Sommer)
- - 2024 - 2030 : TRACCS-PC5-COMPACT : COMputing PAradigms towards efficient, modular and trainable ClimaTe models (PEPR, ANR, PI : J. Le Sommer). 
+ - 2024 - 2030 : [TRACCS-PC5-COMPACT](https://pepr-traccs.fr/projet/pc5-compact/) : COMputing PAradigms towards efficient, modular and trainable ClimaTe models (PEPR, ANR, PI : J. Le Sommer). 
  - 2024 - 2027 : SWOT-PALMAS :  Physics And Learning for Models and Algorithms in the SWOT era. (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
  - 2024 - 2027 : [AI4PEX](https://ai4pex.org) : Artificial Intelligence for enhanced representation
 of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carvalhais). 
