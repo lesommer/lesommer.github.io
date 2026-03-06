@@ -11,12 +11,12 @@ permalink: /projects/
  - 2024 - 2027 : SWOT-PALMAS :  Physics And Learning for Models and Algorithms in the SWOT era. (CNES/NASA, PI : J. Le Sommer et E. Cosme). 
  - 2024 - 2027 : [AI4PEX](https://ai4pex.org) : Artificial Intelligence for enhanced representation
 of processes and extremes in Earth System Models (Horizon Europe, PI. : N. Carvalhais). 
- - 2023 - 2025 : [EDITO-Model Lab](https://www.edito-modellab.eu) : European Digital Twin Ocean  (Horizon Europe, PI : Y. Drillet)
  - 2021 - 2025 : [M2LINES](https://m2lines.github.io) (VESRI, PIs : L. Zanna and A. Adcroft).
  - 2022 - 2027 : MEDIATION (PPR Ocean et Climat, PIs : L. Debreu / P. Marchesiello / F. Dumas) 
 
 
 ## Past projects
+ - 2023 - 2025 : [EDITO-Model Lab](https://www.edito-modellab.eu) : European Digital Twin Ocean  (Horizon Europe, PI : Y. Drillet)
  - 2020 - 2024 : MeLODy (ANR, PI: R. Fablet)
  - 2020 - 2023 : MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme).
  - 2020 - 2023 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier).
