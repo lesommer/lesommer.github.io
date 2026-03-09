@@ -11,13 +11,13 @@ permalink: /contact/
  - **fax:**  +33  4 76 82 50 71
  - **skype** : id : lesommer
  - **postal adress** (for *regular mail*): Institut des Géosciences de l’Environnement, UGA, CS 40 700, 38058 Grenoble cedex 9, France
- - **physical adress** (for *carrier delivery*) : IGE/MEOM, Maison Climat Planète, 70 rue de la Physique, Domaine Universitaire, 38400 St Martin d’Hères, France
+ - **physical adress** (for *carrier delivery*) : IGE, Maison Climat Planète, 70 rue de la Physique, Domaine Universitaire, 38400 St Martin d’Hères, France
 
 
 
 ## How to visit us ?
 
-The MEOM group is located on the "Domain Universitaire" in Saint Martin d'Hères near Grenoble (France).   
+IGE is distributed on 3 different sites, all located on the "Domain Universitaire" in Saint Martin d'Hères near Grenoble (France). The OPERA group members are in the MCP and OSU-B buildings.  
 
  - **directions** : [find us on OpenStreet maps](http://umap.openstreetmap.fr/en/map/anonymous-edit/655503:LtKbIAl24v-TySSBzXbliPoKqrk)
 
