@@ -17,7 +17,7 @@ permalink: /contact/
 
 ## How to visit us ?
 
-IGE is distributed on 3 different sites, all located on the "Domain Universitaire" in Saint Martin d'Hères near Grenoble (France). The OPERA group members are in the MCP and OSU-B buildings.  
+IGE is distributed on 3 different sites, all located on the "Domain Universitaire" in Saint Martin d'Hères near Grenoble (France). The offices of OPERA group members are in the MCP and OSUG-B buildings.  
 
  - **directions** : [find us on OpenStreet maps](http://umap.openstreetmap.fr/en/map/anonymous-edit/655503:LtKbIAl24v-TySSBzXbliPoKqrk)
 
