@@ -24,7 +24,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
 
  1. Durand et al. Learning-based methods and the future of numerical modeling. Submitted to the *Annual Review of Marine Science* (sollicited manuscript)
- 1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Submitted to *Geophysical Model Development*.
+ 1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Submitted to *Geophysical Model Development*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-854](https://doi.org/10.5194/egusphere-2026-854).
  1. Uchida et al. A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. Submitted to *Geophysical Research Letters*. preprint on arXiv:[2601.18182](https://arxiv.org/abs/2601.18182) 
  1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. Submitted to *Geophysical Researh Letters*, under revision.
