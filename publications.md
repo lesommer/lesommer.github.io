@@ -29,7 +29,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Frezat H. et al. Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
 
 ## Journal articles
- 1. Durand et al. Learning-based methods and the future of numerical modeling. Accepted for publication in the *Annual Review of Marine Science* (sollicited manuscript)
+ 1. Durand et al. Learning-based methods and the future of numerical modeling. Accepted for publication in the *Annual Review of Marine Science* (sollicited manuscript), preprint on EarthArXiv doi:[10.31223/X5HB6S](https://doi.org/10.31223/X5HB6S).
  1. Bertrand V. et al. (2026) A Robust Variational Framework for Cyclogeostrophic Ocean Surface Current Retrieval. *Ocean Science*, 22, 241-255.  doi:[10.5194/os-22-241-2026](https://doi.org/10.5194/os-22-241-2026)
  1. Gomez-Navarro et al. (2026) Impact of Tidal Forcing on Surface Particle Transport Properties: Insights from Twin Ocean Simulations. Accepted for publication in the *Journal of Advances in Modeling Earth Systems*. doi:[10.1029/2024MS004805](http://dx.doi.org/10.1029/2024MS004805). preprint doi:[10.1002/essoar.10512397.5](https://doi.org/10.1002/essoar.10512397.5)
  1. Bendinger et al. (2025) Characteristics of mesoscale to submesoscale eddies in the labrador sea: Insights from ship observations. *Journal of Physical Oceanography*. doi:[10.1175/JPO-D-24-0216.1](https://doi.org/10.1175/JPO-D-24-0216.1)
