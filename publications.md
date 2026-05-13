@@ -21,7 +21,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Zhu et al. End-to-end learning from simulated observations for the neural global-scale mapping of real altimetry data. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
- 1. Le Roux E. et al. Equation discovery for climate impact: emulating impact models for unexplored climate scenario with interpretable symbolic regression. Submitted to *Earth System Dynamics*. 
+ 1. Le Roux E. et al. Equation discovery for climate impact: emulating impact models for unexplored climate scenario with interpretable symbolic regression. Submitted to *Earth System Dynamics*. Discussion paper on eguspehere doi:[10.5194/egusphere-2026-1991](https://doi.org/10.5194/egusphere-2026-1991) 
  1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Submitted to *Geophysical Model Development*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-854](https://doi.org/10.5194/egusphere-2026-854).
  1. Uchida et al. A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. Submitted to *Geophysical Research Letters*. preprint on arXiv:[2601.18182](https://arxiv.org/abs/2601.18182) 
  1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
