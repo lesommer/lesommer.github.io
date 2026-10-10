@@ -18,7 +18,6 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Contreras et al. Online performance of a machine learning parameterization of ocean mixed layer eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
  1. Ouala et al. Leveraging differentiable programming for ocean model design and calibration. In preparation for the *Journal of Advances in Modeling Earth Systems*.
- 1. Zhu et al. End-to-end learning from simulated observations for the neural global-scale mapping of real altimetry data. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
 
