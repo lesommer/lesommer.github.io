@@ -22,6 +22,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 ## Submitted papers and papers in revision
 
+ 1. Gentine P. et al. legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents. preprint on arXiv:[2610.11883](https://doi.org/10.48550/arXiv.2610.11883)
+ 1. Zhu D. et al. End-to-end learning from simulated observations for global-scale neural mapping of real altimetry data. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on HAL:[hal-05598825](https://imt-atlantique.hal.science/hal-05598825)
  1. Le Roux E. et al. Equation discovery for climate impact: emulating impact models for unexplored climate scenario with interpretable symbolic regression. Submitted to *Earth System Dynamics*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-1991](https://doi.org/10.5194/egusphere-2026-1991) 
  1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Submitted to *Geophysical Model Development*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-854](https://doi.org/10.5194/egusphere-2026-854).
  1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
