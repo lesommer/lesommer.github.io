@@ -29,6 +29,8 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. Submitted to *Geophysical Researh Letters*, under revision.
 
 ## Journal articles
+ 1. Serazin et al. Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. Accepted in *Geophysical Researh Letters*, in press.
+ 1. Barge A. et al. Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). Accepted in  *Geophysical Model Development*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-854](https://doi.org/10.5194/egusphere-2026-854).
  1. Frezat H. et al. (2026) Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. *Journal of Advances in Modeling Earth Systems*, 18, e2023MS004140. doi:[10.1029/2023MS004140](https://doi.org/10.1029/2023MS004140). preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
   1. Uchida T. et al. (2026) A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase. *Geophysical Research Letters*, 53, e2026GL121978. doi:[10.1029/2026GL121978](https://doi.org/10.1029/2026GL121978) preprint on arXiv:[2601.18182](https://arxiv.org/abs/2601.18182)
  1. Durand C. et al. (2027) Learning-based methods and the future of numerical modeling. *Annual Review of Marine Science* (sollicited manuscript). doi:[10.1146/annurev-marine-040125-074353](https://doi.org/10.1146/annurev-marine-040125-074353),  preprint on EarthArXiv doi:[10.31223/X5HB6S](https://doi.org/10.31223/X5HB6S).
