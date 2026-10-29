@@ -17,10 +17,9 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Papers in preparation
  1. Contreras et al. Online performance of a machine learning parameterization of ocean mixed layer eddies. In preparation for the *Journal of Advances in Modeling Earth Systems*.
  1. El Aouni A. et al. Machine learning predictions of the probability of presence of objects lost at sea. In preparation for the *Journal of Operationnal Oceanography*.
- 1. Ouala et al. Leveraging differentiable programming for ocean model design and calibration. In preparation for the *Journal of Advances in Modeling Earth Systems*.
 
 ## Submitted papers and papers in revision
-
+ 1. Ouala et al. Differentiable programming for ocean model design and calibration. Submitted to the the *Journal of Advances in Modeling Earth Systems*.
  1. Gentine P. et al. legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents. preprint on arXiv:[2610.11883](https://doi.org/10.48550/arXiv.2610.11883)
  1. Zhu D. et al. End-to-end learning from simulated observations for global-scale neural mapping of real altimetry data. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on HAL:[hal-05598825](https://imt-atlantique.hal.science/hal-05598825)
  1. Le Roux E. et al. Equation discovery for climate impact: emulating impact models for unexplored climate scenario with interpretable symbolic regression. Submitted to *Earth System Dynamics*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-1991](https://doi.org/10.5194/egusphere-2026-1991) 
