@@ -23,9 +23,9 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
  1. Gentine P. et al. legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents. preprint on arXiv:[2610.11883](https://doi.org/10.48550/arXiv.2610.11883)
  1. Zhu D. et al. End-to-end learning from simulated observations for global-scale neural mapping of real altimetry data. Submitted to the *Journal of Advances in Modeling Earth Systems*, preprint on HAL:[hal-05598825](https://imt-atlantique.hal.science/hal-05598825)
  1. Le Roux E. et al. Equation discovery for climate impact: emulating impact models for unexplored climate scenario with interpretable symbolic regression. Submitted to *Earth System Dynamics*. Discussion paper on egusphere doi:[10.5194/egusphere-2026-1991](https://doi.org/10.5194/egusphere-2026-1991) 
- 1. Botvynko et al. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. Submitted to *Environmental Data Science*. preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
 
 ## Journal articles
+ 1. Botvynko et al. 2026. Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data. *Environmental Data Science*, 5, e43. doi:[10.1017/eds.2026.10063](https://doi.org/10.1017/eds.2026.10063). preprint on arXiv:[2512.22152](https://arxiv.org/abs/2512.22152)
  1. Serazin et al. (2026) Scales of baroclinic instability in a submesoscale-rich simulation of the North Atlantic ocean. Accepted in *Geophysical Researh Letters*, in press.
  1. Barge A. et al. (2026) Deploying Machine Learning components coupled to Earth System Models with OASIS3-MCT (v6) and Eophis (v1.1). *Geophysical Model Development*. doi:[10.5194/gmd-19-10345-2026](https://doi.org/10.5194/gmd-19-10345-2026).
  1. Frezat H. et al. (2026) Gradient-free on-line learning of subgrid-scale dynamics with neural emulators. *Journal of Advances in Modeling Earth Systems*, 18, e2023MS004140. doi:[10.1029/2023MS004140](https://doi.org/10.1029/2023MS004140). preprint on arXiv:[2310.19385](https://arxiv.org/abs/2310.19385)
